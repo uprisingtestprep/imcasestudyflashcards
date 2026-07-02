@@ -1,0 +1,3002 @@
+[
+  {
+    "chapter": 1,
+    "front": "What are the seven parts of the structure used in every case chapter of this book except the final case-conference chapter?",
+    "back": "Initial Presentation, Expanding the Differential, Diagnostic Workup and Key Findings, a chapter-specific reasoning-skill spotlight, Case Resolution and Teaching Points, Board-Style Questions, and Case Recap.",
+    "id": 1
+  },
+  {
+    "chapter": 1,
+    "front": "How does this book's organizing principle for its thirty-one cases differ from Book One's organizing principle?",
+    "back": "Book One organized content by chief complaint, while this book organizes cases by reasoning difficulty, sequencing them so retrieval can be practiced against patients who do not announce their diagnosis up front.",
+    "id": 2
+  },
+  {
+    "chapter": 1,
+    "front": "What four cognitive biases from Book One does this book reintroduce inside each case's Expanding the Differential section?",
+    "back": "Anchoring, premature closure, availability bias, and framing effects.",
+    "id": 3
+  },
+  {
+    "chapter": 1,
+    "front": "What specific failure mode does narrative-form diagnostic workup expose that a branching algorithm does not?",
+    "back": "What happens when a test result arrives that does not cleanly fit either branch, or when a test is ordered out of sequence under real-world time pressure.",
+    "id": 4
+  },
+  {
+    "chapter": 1,
+    "front": "What is the purpose of the chapter-specific reasoning-skill spotlight section in each case chapter?",
+    "back": "It elevates a case from a single memorized vignette into a transferable skill by teaching an atypical presentation, a coexisting diagnosis, or a specific cognitive bias that a textbook description alone could not teach as cleanly.",
+    "id": 5
+  },
+  {
+    "chapter": 1,
+    "front": "What clinical content defines the first block of cases, Chapters Two through Eleven?",
+    "back": "Classic, textbook-typical presentations spanning cardiology, pulmonary medicine, surgery, nephrology, neurology, gastroenterology, and electrolyte emergencies, building an accurate baseline illness script before it is challenged.",
+    "id": 6
+  },
+  {
+    "chapter": 1,
+    "front": "What six atypical presentations are named as examples in the second block of cases, Chapters Twelve through Seventeen?",
+    "back": "Silent myocardial infarction, afebrile pneumonia, painless biliary colic, delirium as an isolated presenting sign, apathetic thyroid storm, and hepatic encephalopathy mistaken for a psychiatric crisis.",
+    "id": 7
+  },
+  {
+    "chapter": 1,
+    "front": "What skill does the third block of cases, Chapters Eighteen through Twenty-One, specifically test?",
+    "back": "Sequencing and prioritizing management when a patient has two active, competing, or coexisting diagnoses and no single diagnosis explains the entire picture.",
+    "id": 8
+  },
+  {
+    "chapter": 1,
+    "front": "What six specific cognitive biases anchor the fourth block of cases, Chapters Twenty-Two through Twenty-Seven?",
+    "back": "Diagnosis momentum, framing effects, premature closure, confirmation bias, script drift, and availability bias, each built around a full case rather than treated as an abstract list item.",
+    "id": 9
+  },
+  {
+    "chapter": 1,
+    "front": "What does Case Resolution and Teaching Points state beyond simply naming the final diagnosis?",
+    "back": "The specific finding, test result, or piece of history that closed the case, and what would have happened diagnostically if that key finding had been absent, delayed, or misread.",
+    "id": 10
+  },
+  {
+    "chapter": 1,
+    "front": "In the Board-Style Questions format, what type of reasoning error does a distractor built around a real but less likely diagnosis teach?",
+    "back": "Prevalence ranking, weighing how common one diagnosis is relative to another given the same presentation.",
+    "id": 11
+  },
+  {
+    "chapter": 1,
+    "front": "In the Board-Style Questions format, what type of reasoning error does a distractor built around a test appropriate at a different pretest probability teach?",
+    "back": "Testing and treatment thresholds, the point at which pretest probability makes ordering a particular test appropriate.",
+    "id": 12
+  },
+  {
+    "chapter": 1,
+    "front": "Why does the chapter say reading a wrong answer's rationale after answering correctly is not redundant?",
+    "back": "Because the specific reasoning error that made a distractor tempting tends to recur across different clinical content in later questions and on the actual exam.",
+    "id": 13
+  },
+  {
+    "chapter": 1,
+    "front": "According to the Did You Know section, what was the single-best-answer vignette format on USMLE Step 2 deliberately designed to test?",
+    "back": "Applied clinical reasoning rather than isolated fact recall, so a test-taker can often answer correctly without having memorized the specific disease name being tested.",
+    "id": 14
+  },
+  {
+    "chapter": 1,
+    "front": "Why does the chapter say a case stem intentionally includes irrelevant details rather than only clues?",
+    "back": "Because real patient histories contain irrelevant details, and treating every sentence as a clue builds a habit that fails on an actual clinical rotation, where most of what a patient says is not diagnostic gold.",
+    "id": 15
+  },
+  {
+    "chapter": 1,
+    "front": "What example does the chapter give of a missing detail in a chest pain stem that materially changes the differential?",
+    "back": "Whether the pain is pleuritic, positional, or exertional, three questions whose absence leaves out information that changes the differential.",
+    "id": 16
+  },
+  {
+    "chapter": 2,
+    "front": "What five categories make up the HEART score, and how many points can each contribute?",
+    "back": "History, EKG, Age, Risk factors, and Troponin, each scored zero, one, or two points.",
+    "id": 17
+  },
+  {
+    "chapter": 2,
+    "front": "What are the three risk categories of the HEART score and their point ranges?",
+    "back": "Zero to three points is low risk, four to six is moderate risk, and seven to ten is high risk, each directing a different disposition pathway.",
+    "id": 18
+  },
+  {
+    "chapter": 2,
+    "front": "What was Marcus Webb's total HEART score, and which two categories contributed his points?",
+    "back": "A total of four, from one point for a moderately suspicious History and two points for his Risk factor burden (hypertension, smoking, family history); his EKG, Age was actually one point (age 52), and Troponin scored zero.",
+    "id": 19
+  },
+  {
+    "chapter": 2,
+    "front": "What three risk factors together met the threshold of two points under the HEART score's Risk factors category for Marcus?",
+    "back": "Hypertension, active smoking of nearly a pack a day for twenty years, and a first-degree relative (his father) with a heart attack at age 58.",
+    "id": 20
+  },
+  {
+    "chapter": 2,
+    "front": "What is the recommended disposition pathway for a HEART score in the moderate-risk range of four to six?",
+    "back": "Admission for observation with serial troponin measurement, rather than discharge or immediate catheterization.",
+    "id": 21
+  },
+  {
+    "chapter": 2,
+    "front": "What two red-flag diagnoses does the chapter say must be actively ruled out in any classic-appearing ischemic chest pain case?",
+    "back": "Aortic dissection and pulmonary embolism, both capable of mimicking ischemic pain with a high cost if missed.",
+    "id": 22
+  },
+  {
+    "chapter": 2,
+    "front": "What exam and history findings in Marcus's case argued against aortic dissection?",
+    "back": "No tearing quality of pain, no pain that was worst at the first instant, and no blood pressure differential between his arms.",
+    "id": 23
+  },
+  {
+    "chapter": 2,
+    "front": "What findings in Marcus's case argued against pulmonary embolism?",
+    "back": "No pleuritic component to the pain, no leg swelling, no recent immobility, and a normal oxygen saturation.",
+    "id": 24
+  },
+  {
+    "chapter": 2,
+    "front": "Is oxygen saturation a scored component of the HEART score?",
+    "back": "No, oxygen saturation is not part of the HEART score's five categories.",
+    "id": 25
+  },
+  {
+    "chapter": 2,
+    "front": "What was the result of Marcus's stress test the following morning, and what happened after?",
+    "back": "It showed no inducible ischemia, and he was discharged with cardiology follow-up and counseling on smoking cessation and blood pressure control.",
+    "id": 26
+  },
+  {
+    "chapter": 2,
+    "front": "What bias risk does the chapter highlight that runs opposite the usual direction, applying to Marcus's very classic-appearing presentation?",
+    "back": "A story this clean can shorten the search for alternatives rather than lengthen it, because a clinician who already believes the answer may not feel the need to document why other diagnoses were excluded.",
+    "id": 27
+  },
+  {
+    "chapter": 2,
+    "front": "According to validation data cited in the chapter, what is the six-week major adverse cardiac event rate for a moderate-risk HEART score?",
+    "back": "Roughly twelve to seventeen percent, meaning most moderate-risk patients do not turn out to have had a cardiac event.",
+    "id": 28
+  },
+  {
+    "chapter": 2,
+    "front": "According to the Did You Know section, what six-week major adverse cardiac event rate is associated with the HEART score's low-risk category?",
+    "back": "Below two percent, low enough to support outpatient management without additional testing.",
+    "id": 29
+  },
+  {
+    "chapter": 2,
+    "front": "Why was the HEART score originally developed, according to the Did You Know section?",
+    "back": "Because unstructured physician gestalt, even among experienced emergency physicians, performed inconsistently at identifying which chest pain patients could be safely discharged without further testing.",
+    "id": 30
+  },
+  {
+    "chapter": 2,
+    "front": "What would have happened to Marcus's disposition if his smoking, hypertension, and family history were removed from an otherwise identical case?",
+    "back": "He would have been sent home after a single negative troponin, with no stress test required, since his score would have fallen into the low-risk category.",
+    "id": 31
+  },
+  {
+    "chapter": 2,
+    "front": "What single teaching point does the chapter draw from Marcus's case about identical objective test results (normal EKG, normal troponin)?",
+    "back": "The same objective results can appropriately support two different dispositions depending on the risk factors and history quality a validated score, not the raw results alone, captures.",
+    "id": 32
+  },
+  {
+    "chapter": 3,
+    "front": "What five variables make up the CURB-65 score, and how many points does each contribute?",
+    "back": "Confusion, Urea above roughly 19 to 20 mg/dL, Respiratory rate 30 or greater, Blood pressure below 90 systolic or 60 diastolic, and age 65 or older, one point each.",
+    "id": 33
+  },
+  {
+    "chapter": 3,
+    "front": "What was Dorothy Alvarez's total CURB-65 score, and which single criterion produced it?",
+    "back": "A score of 1, from her blood urea nitrogen of 22 crossing the urea threshold; confusion, respiratory rate, blood pressure, and age all scored zero.",
+    "id": 34
+  },
+  {
+    "chapter": 3,
+    "front": "What disposition does a CURB-65 score of 0 to 1 favor, and what score generally favors inpatient admission?",
+    "back": "A score of 0 to 1 favors outpatient management; a score of 2 favors inpatient admission, and 3 or higher favors considering intensive care.",
+    "id": 35
+  },
+  {
+    "chapter": 3,
+    "front": "Is oxygen saturation a scored component of CURB-65?",
+    "back": "No, it must be assessed independently as a separate clinical factor in the admission decision.",
+    "id": 36
+  },
+  {
+    "chapter": 3,
+    "front": "What exam findings on Dorothy's right lower lung field suggested lobar consolidation before imaging was obtained?",
+    "back": "Decreased breath sounds, dullness to percussion, and egophony layered over bronchial breath sounds, all confined to one lung field.",
+    "id": 37
+  },
+  {
+    "chapter": 3,
+    "front": "What imaging and lab findings confirmed Dorothy's pneumonia diagnosis?",
+    "back": "A chest radiograph showing dense consolidation filling the right lower lobe, and a white blood cell count of 16,200 with a left shift.",
+    "id": 38
+  },
+  {
+    "chapter": 3,
+    "front": "Why does the chapter say a specific causative organism for Dorothy's pneumonia will likely never be identified?",
+    "back": "Because blood and sputum cultures come back negative in community-acquired pneumonia more often than they come back positive, even in confirmed bacterial cases.",
+    "id": 39
+  },
+  {
+    "chapter": 3,
+    "front": "What antibiotic was Dorothy discharged on, and what patient factors made it appropriate?",
+    "back": "Amoxicillin, appropriate given no comorbidities and no recent antibiotic exposure that would push toward a broader-spectrum agent.",
+    "id": 40
+  },
+  {
+    "chapter": 3,
+    "front": "What specific instructions was Dorothy given about when to return after discharge?",
+    "back": "Return for worsening breathlessness, inability to keep food or fluids down, confusion, or fever still present after 72 hours of treatment.",
+    "id": 41
+  },
+  {
+    "chapter": 3,
+    "front": "Why does the chapter say the focal, one-sided nature of Dorothy's lung findings argues against decompensated heart failure?",
+    "back": "A cardiogenic process tends to show up symmetrically across both lungs rather than confined to one field.",
+    "id": 42
+  },
+  {
+    "chapter": 3,
+    "front": "What findings argued against pulmonary embolism despite Dorothy's pleuritic chest pain?",
+    "back": "Rigors, rust-tinged sputum, and a focal consolidation on exam, plus the absence of usual embolism risk factors like recent immobility, malignancy, or hormone therapy.",
+    "id": 43
+  },
+  {
+    "chapter": 3,
+    "front": "What discipline does the chapter say CURB-65 shares with the HEART score from the previous chapter?",
+    "back": "Both reach their risk threshold by counting specific scored variables, not by weighing how sick the patient looks in the room.",
+    "id": 44
+  },
+  {
+    "chapter": 3,
+    "front": "If Dorothy's blood pressure had instead been 84/56, what would her CURB-65 score become and what disposition would that favor?",
+    "back": "A score of 2, favoring inpatient admission for closer monitoring rather than outpatient management.",
+    "id": 45
+  },
+  {
+    "chapter": 3,
+    "front": "According to the Did You Know section, what tradeoff does CURB-65 represent compared to the more complex pneumonia severity index it simplified?",
+    "back": "A modest loss of prognostic precision in exchange for a rule simple enough to calculate reliably at the bedside without a reference table.",
+    "id": 46
+  },
+  {
+    "chapter": 3,
+    "front": "What does the chapter identify as the actual factor that determined Dorothy's disposition, rather than how uncomfortable she looked in the exam room?",
+    "back": "The composite CURB-65 score, which correctly weighed her age, blood pressure, and respiratory rate against a defined threshold.",
+    "id": 47
+  },
+  {
+    "chapter": 3,
+    "front": "What would happen to Dorothy's CURB-65 category if her age were moved to 68 or her urea were slightly higher, per the chapter's teaching point?",
+    "back": "The same patient would cross into a category favoring admission, illustrating how a handful of specific, countable variables, not overall impression, decide disposition.",
+    "id": 48
+  },
+  {
+    "chapter": 4,
+    "front": "What is the classic migration pattern of pain in appendicitis, as described in Priya Nandakumar's case?",
+    "back": "Periumbilical visceral pain that migrates to the right lower quadrant over twelve to twenty-four hours as the inflamed appendix irritates the adjacent parietal peritoneum.",
+    "id": 49
+  },
+  {
+    "chapter": 4,
+    "front": "Where is McBurney's point located?",
+    "back": "One-third of the way from the anterior superior iliac spine to the umbilicus.",
+    "id": 50
+  },
+  {
+    "chapter": 4,
+    "front": "What is Rovsing's sign, and was it positive in Priya's exam?",
+    "back": "Pain referred to the right lower quadrant when the examiner presses on the left side of the abdomen; it was positive in Priya's exam.",
+    "id": 51
+  },
+  {
+    "chapter": 4,
+    "front": "What is the psoas sign, and was it positive in Priya's exam?",
+    "back": "Worsened pain when the patient raises the right leg against resistance; it was positive in Priya's exam.",
+    "id": 52
+  },
+  {
+    "chapter": 4,
+    "front": "Why is a urine pregnancy test mandatory in any woman of reproductive age with lower abdominal pain, even when appendicitis seems classic?",
+    "back": "Because ectopic pregnancy cannot be excluded by history or denial alone, and missing it under an appendicitis anchor is a documented failure mode in young women with this pain pattern.",
+    "id": 53
+  },
+  {
+    "chapter": 4,
+    "front": "What eight variables does the Alvarado score assess?",
+    "back": "Migratory pain, anorexia, nausea or vomiting, right lower quadrant tenderness, rebound tenderness, elevated temperature, leukocytosis, and left shift.",
+    "id": 54
+  },
+  {
+    "chapter": 4,
+    "front": "On which six Alvarado components did Priya score positively?",
+    "back": "Migratory pain, anorexia, vomiting, right lower quadrant tenderness, elevated temperature, and leukocytosis.",
+    "id": 55
+  },
+  {
+    "chapter": 4,
+    "front": "What did Priya's CT scan of the abdomen and pelvis show?",
+    "back": "A dilated, thickened appendix measuring 11 millimeters with surrounding fat stranding, consistent with acute appendicitis, without perforation or abscess.",
+    "id": 56
+  },
+  {
+    "chapter": 4,
+    "front": "What specific finding excluded ectopic pregnancy in Priya's workup?",
+    "back": "A definitive negative urine pregnancy test, not her own denial of the possibility of pregnancy.",
+    "id": 57
+  },
+  {
+    "chapter": 4,
+    "front": "What specific finding excluded ovarian torsion and tubo-ovarian abscess in Priya's workup?",
+    "back": "Imaging showing normal ovaries and no adnexal mass.",
+    "id": 58
+  },
+  {
+    "chapter": 4,
+    "front": "What finding excluded a urinary tract infection as the cause of Priya's pain?",
+    "back": "A normal urinalysis with no evidence of infection.",
+    "id": 59
+  },
+  {
+    "chapter": 4,
+    "front": "What surgical procedure did Priya undergo, and what did the operative findings confirm?",
+    "back": "Laparoscopic appendectomy the same day, confirming an inflamed, non-perforated appendix consistent with imaging and the clinical picture.",
+    "id": 60
+  },
+  {
+    "chapter": 4,
+    "front": "What does the chapter say actually closed Priya's case, rather than any single history or exam finding alone?",
+    "back": "The convergence of a high Alvarado score with a confirmatory CT scan, closing the loop between clinical prediction and objective confirmation.",
+    "id": 61
+  },
+  {
+    "chapter": 4,
+    "front": "If Priya's CT had shown a normal-appearing appendix, what would the correct next step have been?",
+    "back": "Reassessing the alternative diagnoses that were provisionally excluded on the assumption appendicitis was correct, along with additional imaging or observation, rather than proceeding to surgery on suspicion alone.",
+    "id": 62
+  },
+  {
+    "chapter": 4,
+    "front": "Why was the Alvarado score originally developed, according to the Did You Know section?",
+    "back": "To reduce the rate of negative appendectomies, procedures performed on patients who turn out not to have appendicitis.",
+    "id": 63
+  },
+  {
+    "chapter": 4,
+    "front": "What single discipline does the chapter emphasize even in a classic, confirmed appendicitis case like Priya's?",
+    "back": "Each alternative diagnosis should be explicitly excluded by a specific finding, rather than assumed unlikely once the leading diagnosis feels settled.",
+    "id": 64
+  },
+  {
+    "chapter": 5,
+    "front": "What was Renata Osei's temperature, heart rate, and blood pressure on arrival?",
+    "back": "Temperature 38.6 degrees Celsius, heart rate 102, blood pressure 112 over 70.",
+    "id": 65
+  },
+  {
+    "chapter": 5,
+    "front": "What specific exam finding sharply reproduced Renata's pain?",
+    "back": "Percussion over her right costovertebral angle reproduced her pain sharply, while the left side was unremarkable.",
+    "id": 66
+  },
+  {
+    "chapter": 5,
+    "front": "What did Renata's urinalysis show?",
+    "back": "Positive leukocyte esterase, positive nitrites, white blood cells too numerous to count on microscopy, and bacteria.",
+    "id": 67
+  },
+  {
+    "chapter": 5,
+    "front": "What was Renata's white blood cell count and differential finding?",
+    "back": "14,100 with a left shift.",
+    "id": 68
+  },
+  {
+    "chapter": 5,
+    "front": "What four criteria define Renata's case as uncomplicated pyelonephritis?",
+    "back": "Not pregnant, no known urinary structural abnormality, no history of kidney stones, no immunosuppression, and no signs of systemic instability such as hypotension or altered mental status.",
+    "id": 69
+  },
+  {
+    "chapter": 5,
+    "front": "Why is imaging not required in every case of pyelonephritis like Renata's?",
+    "back": "Imaging is reserved for patients who fail to improve within 48 to 72 hours, have recurrent infection, have obstruction risk factors, or show signs of severe or complicated disease; reflexive imaging adds cost and radiation without changing management in typical cases.",
+    "id": 70
+  },
+  {
+    "chapter": 5,
+    "front": "What antibiotic class was Renata discharged on, and why was it chosen?",
+    "back": "An oral fluoroquinolone, selected based on local resistance patterns and her lack of prior fluoroquinolone exposure.",
+    "id": 71
+  },
+  {
+    "chapter": 5,
+    "front": "What organism did Renata's urine culture confirm two days later?",
+    "back": "Escherichia coli, sensitive to the antibiotic already prescribed.",
+    "id": 72
+  },
+  {
+    "chapter": 5,
+    "front": "What instructions was Renata given for when to return to care?",
+    "back": "Return if fever persists beyond 48 to 72 hours, if pain worsens, if vomiting prevents her from keeping down oral medication, or if any new confusion develops.",
+    "id": 73
+  },
+  {
+    "chapter": 5,
+    "front": "What was the outcome of Renata's 72-hour follow-up call?",
+    "back": "Her fever had resolved and her pain was substantially improved.",
+    "id": 74
+  },
+  {
+    "chapter": 5,
+    "front": "What single factor, rather than one test result, determined Renata's outpatient disposition?",
+    "back": "The composite picture of hemodynamic stability, ability to tolerate oral intake, and absence of complicating features.",
+    "id": 75
+  },
+  {
+    "chapter": 5,
+    "front": "How would Renata's disposition have changed if she had shown hypotension or altered mental status?",
+    "back": "It would have shifted to admission for intravenous antibiotics regardless of how classic the rest of her presentation appeared.",
+    "id": 76
+  },
+  {
+    "chapter": 5,
+    "front": "What three alternative diagnoses were explicitly named in Renata's differential besides pyelonephritis?",
+    "back": "Nephrolithiasis with superimposed infection, ovarian pathology, and appendicitis.",
+    "id": 77
+  },
+  {
+    "chapter": 5,
+    "front": "Why did Renata's pain pattern argue against ovarian pathology or appendicitis?",
+    "back": "Her pain was unilateral, posterior, and localized with costovertebral tenderness, whereas ovarian pathology and appendicitis more often present with anterior or pelvic findings.",
+    "id": 78
+  },
+  {
+    "chapter": 5,
+    "front": "How many prior urinary tract infections had Renata had, and how were they treated?",
+    "back": "Two in the last three years, both treated successfully with a short course of oral antibiotics.",
+    "id": 79
+  },
+  {
+    "chapter": 5,
+    "front": "What single categorical distinction drives three combined decisions in urinary infection management?",
+    "back": "The uncomplicated versus complicated infection distinction, which determines antibiotic choice, need for imaging, and site of care together.",
+    "id": 80
+  },
+  {
+    "chapter": 6,
+    "front": "What defines a thunderclap headache according to this chapter?",
+    "back": "A headache that reaches maximal intensity within a minute or two of onset, defined by tempo rather than intensity alone.",
+    "id": 81
+  },
+  {
+    "chapter": 6,
+    "front": "What was Teresa Okonkwo's blood pressure and heart rate on arrival?",
+    "back": "Blood pressure 162 over 94, heart rate 88, and she was afebrile.",
+    "id": 82
+  },
+  {
+    "chapter": 6,
+    "front": "What three exam findings were present on Teresa's neurologic exam besides normal strength and reflexes?",
+    "back": "Mild nuchal rigidity on neck flexion, marked photophobia, and no papilledema on fundoscopic exam.",
+    "id": 83
+  },
+  {
+    "chapter": 6,
+    "front": "How did Teresa's headache differ from her usual migraines according to her husband?",
+    "back": "It had no aura, no gradual build over twenty to thirty minutes, and reached full intensity within a minute or two, unlike her eleven-year pattern of migraines.",
+    "id": 84
+  },
+  {
+    "chapter": 6,
+    "front": "Why does subarachnoid hemorrhage sit at the top of the differential for a thunderclap headache?",
+    "back": "Because thunderclap headache exists as a red flag for subarachnoid hemorrhage, and the cost of missing a re-bleed in an unsecured aneurysm outweighs the lower prevalence compared to migraine or tension headache.",
+    "id": 85
+  },
+  {
+    "chapter": 6,
+    "front": "What two stroke-adjacent conditions can mimic thunderclap headache and are distinguished only by vascular imaging?",
+    "back": "Cervical artery dissection and reversible cerebral vasoconstriction syndrome.",
+    "id": 86
+  },
+  {
+    "chapter": 6,
+    "front": "When is non-contrast CT most sensitive for detecting subarachnoid hemorrhage?",
+    "back": "Within the first six hours of headache onset.",
+    "id": 87
+  },
+  {
+    "chapter": 6,
+    "front": "What lumbar puncture finding is most specific for true subarachnoid hemorrhage over a traumatic tap?",
+    "back": "Xanthochromia, a yellow discoloration from red blood cell breakdown, which indicates blood has been present in the cerebrospinal fluid for hours.",
+    "id": 88
+  },
+  {
+    "chapter": 6,
+    "front": "What pattern of red blood cells across sequential lumbar puncture tubes suggests a traumatic tap rather than true hemorrhage?",
+    "back": "A red blood cell count that clears progressively across the collected tubes.",
+    "id": 89
+  },
+  {
+    "chapter": 6,
+    "front": "What was Teresa's final working diagnosis, and how was it reached?",
+    "back": "A first thunderclap presentation of a primary headache disorder, most consistent with an atypical, non-aura migraine variant, reached only after subarachnoid hemorrhage and meningitis were actively excluded by testing.",
+    "id": 90
+  },
+  {
+    "chapter": 6,
+    "front": "What anchoring error does this chapter warn against in patients with an established headache history?",
+    "back": "Dismissing a new headache with a different tempo as just a variant of a familiar diagnosis, such as assuming it is another migraine because of a known migraine history.",
+    "id": 91
+  },
+  {
+    "chapter": 6,
+    "front": "What would have been the correct next step if Teresa's lumbar puncture had shown a small, non-clearing red blood cell count?",
+    "back": "Vascular imaging to evaluate for an aneurysm, not reassurance.",
+    "id": 92
+  },
+  {
+    "chapter": 6,
+    "front": "What cerebrospinal fluid studies were sent to evaluate for meningitis given Teresa's nuchal rigidity and photophobia?",
+    "back": "Cell count, glucose, and protein, which returned unremarkable.",
+    "id": 93
+  },
+  {
+    "chapter": 6,
+    "front": "How many years had Teresa had migraines, and what was their typical pattern?",
+    "back": "An eleven-year history, always preceded by a visual aura and always building gradually over twenty or thirty minutes.",
+    "id": 94
+  },
+  {
+    "chapter": 6,
+    "front": "Why did Teresa's abrupt symptom onset argue somewhat against meningitis as the primary cause?",
+    "back": "Meningitis more typically builds over hours, whereas her headache reached peak intensity within a minute or two.",
+    "id": 95
+  },
+  {
+    "chapter": 6,
+    "front": "What combination of findings, rather than one test alone, excluded subarachnoid hemorrhage in Teresa's case?",
+    "back": "A negative CT obtained within the high-sensitivity six-hour window combined with a lumbar puncture showing no xanthochromia and a clearing red blood cell count.",
+    "id": 96
+  },
+  {
+    "chapter": 7,
+    "front": "What was Desmond Okoro's precise last known well time and arrival time?",
+    "back": "Last known well at 2:15 in the afternoon, arriving at the emergency department at 3:25, just over an hour after last being seen normal.",
+    "id": 97
+  },
+  {
+    "chapter": 7,
+    "front": "Why did Desmond stop taking anticoagulation eight months before this presentation?",
+    "back": "He stopped it himself after a fall, a decision he never discussed with his cardiologist.",
+    "id": 98
+  },
+  {
+    "chapter": 7,
+    "front": "What were Desmond's presenting neurologic findings?",
+    "back": "Dense left facial droop, left arm drift falling to the bed within five seconds against gravity, milder left leg weakness, and dysarthric speech.",
+    "id": 99
+  },
+  {
+    "chapter": 7,
+    "front": "What was Desmond's blood glucose on arrival, and why was it checked immediately?",
+    "back": "104, checked immediately given how closely hypoglycemia can mimic a stroke.",
+    "id": 100
+  },
+  {
+    "chapter": 7,
+    "front": "What was Desmond's calculated NIHSS score, and what findings drove it?",
+    "back": "14, reflecting moderate stroke severity, driven primarily by his facial palsy, arm weakness, and dysarthria.",
+    "id": 101
+  },
+  {
+    "chapter": 7,
+    "front": "What did Desmond's CT angiography identify?",
+    "back": "An occlusion of a proximal middle cerebral artery branch, a large-vessel occlusion.",
+    "id": 102
+  },
+  {
+    "chapter": 7,
+    "front": "What two stroke mimics were actively excluded in Desmond's evaluation, and how?",
+    "back": "Hypoglycemia, excluded by a normal glucose of 104, and seizure with post-ictal Todd's paralysis, argued against by his wife's account of no convulsive activity.",
+    "id": 103
+  },
+  {
+    "chapter": 7,
+    "front": "Why does a large-vessel occlusion make a patient a candidate for mechanical thrombectomy in addition to thrombolysis?",
+    "back": "Large-vessel occlusions respond less reliably to thrombolysis alone, and endovascular clot retrieval offers a meaningfully higher chance of good functional outcome in this anatomic scenario.",
+    "id": 104
+  },
+  {
+    "chapter": 7,
+    "front": "Why were thrombolysis and thrombectomy arrangements pursued in parallel rather than sequentially for Desmond?",
+    "back": "Neither intervention should be delayed waiting on the other when both are indicated, since time is the resource being spent with every additional minute.",
+    "id": 105
+  },
+  {
+    "chapter": 7,
+    "front": "What was Desmond's neurologic outcome by hospital day three?",
+    "back": "Near-complete resolution of his facial droop and arm weakness.",
+    "id": 106
+  },
+  {
+    "chapter": 7,
+    "front": "What secondary prevention step was taken for Desmond's atrial fibrillation during this admission?",
+    "back": "Anticoagulation was restarted, with a clear conversation documented about how his prior self-discontinuation materially contributed to this event.",
+    "id": 107
+  },
+  {
+    "chapter": 7,
+    "front": "What single finding is described as determining Desmond's entire treatment pathway?",
+    "back": "His precisely established last known well time, cross-referenced against imaging showing no hemorrhage and no established infarct.",
+    "id": 108
+  },
+  {
+    "chapter": 7,
+    "front": "Why is non-contrast CT used primarily to exclude hemorrhage rather than to confirm ischemia?",
+    "back": "A negative CT in a patient with a compatible history and exam supports proceeding toward thrombolysis evaluation, since ischemic changes may not yet be visible while hemorrhage, the key contraindication, can be reliably excluded.",
+    "id": 109
+  },
+  {
+    "chapter": 7,
+    "front": "What does the phrase 'time is brain' quantitatively reflect in acute stroke care?",
+    "back": "Estimates suggesting a typical large-vessel ischemic stroke costs the brain millions of neurons for every minute reperfusion is delayed.",
+    "id": 110
+  },
+  {
+    "chapter": 7,
+    "front": "Why can two patients with an identical NIHSS score have entirely different treatment options?",
+    "back": "Because how long ago their last known well time was, not the severity of their deficit, determines how much salvageable brain tissue likely remains.",
+    "id": 111
+  },
+  {
+    "chapter": 7,
+    "front": "What are Desmond's two major stroke risk factors named in the chapter?",
+    "back": "Hypertension and atrial fibrillation, the latter untreated with anticoagulation at the time of this stroke.",
+    "id": 112
+  },
+  {
+    "chapter": 8,
+    "front": "What were Roland Vance's vital signs on arrival in the emergency department?",
+    "back": "Heart rate 118, blood pressure 98 over 62, respiratory rate 20, with pallor and delayed capillary refill.",
+    "id": 113
+  },
+  {
+    "chapter": 8,
+    "front": "What two risk factors did Roland admit to when asked directly?",
+    "back": "Daily heavy alcohol use and regular over-the-counter ibuprofen use for chronic back pain, several tablets a day for months.",
+    "id": 114
+  },
+  {
+    "chapter": 8,
+    "front": "What did Roland initially attribute his dark, tarry stools to?",
+    "back": "A new iron supplement, though the stools actually represented melena from upper gastrointestinal bleeding.",
+    "id": 115
+  },
+  {
+    "chapter": 8,
+    "front": "What was Roland's hemoglobin value on initial labs?",
+    "back": "8.4, down from a presumed baseline in the normal range, though no prior value was available for comparison.",
+    "id": 116
+  },
+  {
+    "chapter": 8,
+    "front": "What liver-related laboratory abnormalities did Roland have?",
+    "back": "Mildly elevated transaminases and a low platelet count, raising but not confirming the possibility of underlying chronic liver disease.",
+    "id": 117
+  },
+  {
+    "chapter": 8,
+    "front": "What validated tool was used to risk-stratify Roland's upper gastrointestinal bleed?",
+    "back": "The Glasgow-Blatchford score.",
+    "id": 118
+  },
+  {
+    "chapter": 8,
+    "front": "What inputs does the Glasgow-Blatchford score incorporate?",
+    "back": "Blood urea nitrogen, hemoglobin, blood pressure, heart rate, and the presence of melena and presyncopal symptoms.",
+    "id": 119
+  },
+  {
+    "chapter": 8,
+    "front": "What distinguishes the Glasgow-Blatchford score from post-endoscopic scoring systems?",
+    "back": "It is calculable using only laboratory values and clinical findings available before endoscopy, without incorporating the specific lesion found.",
+    "id": 120
+  },
+  {
+    "chapter": 8,
+    "front": "What empiric treatment was started for Roland before his bleeding source was confirmed, and why?",
+    "back": "Octreotide infusion and prophylactic antibiotics for possible variceal bleeding, since this treatment carries benefit if varices are confirmed and low risk if the source is nonvariceal.",
+    "id": 121
+  },
+  {
+    "chapter": 8,
+    "front": "What did Roland's upper endoscopy, performed within twelve hours, actually reveal?",
+    "back": "A large duodenal ulcer with a visible vessel at its base, without evidence of esophageal or gastric varices.",
+    "id": 122
+  },
+  {
+    "chapter": 8,
+    "front": "What endoscopic therapy was performed on Roland's ulcer?",
+    "back": "Epinephrine injection and thermal coagulation.",
+    "id": 123
+  },
+  {
+    "chapter": 8,
+    "front": "What medication and testing plan followed Roland's endoscopic ulcer treatment?",
+    "back": "High-dose proton pump inhibitor therapy, with testing sent for Helicobacter pylori, which if present requires eradication therapy to reduce recurrence risk.",
+    "id": 124
+  },
+  {
+    "chapter": 8,
+    "front": "What plan was made regarding Roland's chronic ibuprofen use?",
+    "back": "Discontinue it and substitute an alternative approach to his back pain that does not carry the same gastric mucosal risk.",
+    "id": 125
+  },
+  {
+    "chapter": 8,
+    "front": "What determined Roland's overall treatment pathway, according to the chapter, rather than any single element of his presentation?",
+    "back": "The Glasgow-Blatchford score establishing urgency of his overall risk category, followed by endoscopy identifying the actual bleeding source.",
+    "id": 126
+  },
+  {
+    "chapter": 8,
+    "front": "How should the empiric variceal treatment be judged in retrospect, given the ulcer was the actual source?",
+    "back": "As an appropriate decision given the information and risk factors available at the time, not as an error simply because the eventual diagnosis differed.",
+    "id": 127
+  },
+  {
+    "chapter": 8,
+    "front": "Why does Roland require further evaluation for liver disease even though his ulcer explained this bleeding episode?",
+    "back": "Abnormal findings incidentally uncovered during an acute evaluation, such as his abnormal liver function tests, still warrant their own independent workup.",
+    "id": 128
+  },
+  {
+    "chapter": 9,
+    "front": "What was Aisha Bello's Wells score category for pulmonary embolism, and what does that category imply about using the PERC rule?",
+    "back": "Her Wells score placed her in the moderate-to-high probability category, meaning the PERC rule does not apply, since PERC is validated only for patients already assessed as low probability.",
+    "id": 129
+  },
+  {
+    "chapter": 9,
+    "front": "What were Aisha's presenting vital signs at urgent care?",
+    "back": "Heart rate 108, respiratory rate 22, blood pressure 122 over 76, oxygen saturation 95 percent on room air, and she was afebrile.",
+    "id": 130
+  },
+  {
+    "chapter": 9,
+    "front": "What risk factors contributed to Aisha's Wells score points?",
+    "back": "Clinical signs of deep vein thrombosis, an alternative diagnosis being less likely than pulmonary embolism, heart rate above 100, and immobilization within the past four weeks.",
+    "id": 131
+  },
+  {
+    "chapter": 9,
+    "front": "Why was a D-dimer still useful in Aisha's workup despite her moderate-to-high pretest probability?",
+    "back": "An elevated D-dimer supported proceeding directly to CT pulmonary angiography, since at her risk level even a normal D-dimer would not have been reassuring enough to stop the workup.",
+    "id": 132
+  },
+  {
+    "chapter": 9,
+    "front": "What did Aisha's CT pulmonary angiogram show?",
+    "back": "A filling defect in a right lower lobe segmental pulmonary artery, consistent with acute pulmonary embolism.",
+    "id": 133
+  },
+  {
+    "chapter": 9,
+    "front": "What did Aisha's venous duplex ultrasound reveal, and why was it clinically important?",
+    "back": "It confirmed a deep vein thrombosis in the posterior tibial vein, correlating with her calf findings and identifying the embolic source directly.",
+    "id": 134
+  },
+  {
+    "chapter": 9,
+    "front": "What is the intended purpose of the PERC rule?",
+    "back": "To identify patients already assessed as low probability for pulmonary embolism in whom further testing can be reasonably avoided entirely.",
+    "id": 135
+  },
+  {
+    "chapter": 9,
+    "front": "Why would applying PERC to Aisha have been a misuse of the tool?",
+    "back": "PERC was never validated for, and is not intended to be applied in, patients outside the low-probability category, and her Wells score already placed her in moderate-to-high probability.",
+    "id": 136
+  },
+  {
+    "chapter": 9,
+    "front": "What treatment was Aisha started on, and why was thrombolytic therapy withheld?",
+    "back": "She was started on therapeutic anticoagulation; thrombolytic therapy was withheld because she was hemodynamically stable with normal right ventricular function and no high-risk features.",
+    "id": 137
+  },
+  {
+    "chapter": 9,
+    "front": "What lifestyle or medication change was recommended for Aisha at discharge, and why?",
+    "back": "She was counseled to discontinue her estrogen-containing oral contraceptive in favor of a non-estrogen alternative, given the clear temporal relationship between its use and her thromboembolic event.",
+    "id": 138
+  },
+  {
+    "chapter": 9,
+    "front": "What calf exam finding did Aisha have, and what did it correlate with on imaging?",
+    "back": "Mild right calf swelling and posterior calf tenderness without a palpable cord, which correlated with a confirmed deep vein thrombosis in the posterior tibial vein.",
+    "id": 139
+  },
+  {
+    "chapter": 9,
+    "front": "Under what circumstance would thrombolytic therapy become appropriate for a patient like Aisha?",
+    "back": "Thrombolytic therapy becomes an appropriate consideration if the patient develops hemodynamic instability or significant right ventricular strain.",
+    "id": 140
+  },
+  {
+    "chapter": 9,
+    "front": "What Bayesian reasoning principle does Aisha's case illustrate about D-dimer testing?",
+    "back": "A D-dimer's diagnostic value depends entirely on the pretest probability it is applied against; it is most useful for ruling out disease in low-probability patients, not moderate-to-high probability ones.",
+    "id": 141
+  },
+  {
+    "chapter": 9,
+    "front": "Which alternative diagnoses were considered and dismissed in Aisha's differential, and why?",
+    "back": "Musculoskeletal chest wall pain, pneumonia, and pericarditis were considered, but none explained her calf findings or the combined respiratory and lower extremity presentation as well as pulmonary embolism did.",
+    "id": 142
+  },
+  {
+    "chapter": 9,
+    "front": "Why is missing the correct application of pretest probability tools considered a dangerous error in this case?",
+    "back": "Miscalculating pretest probability as low, or misapplying PERC despite a moderate-to-high Wells score, could allow a real pulmonary embolism to go undiagnosed using a test sequence never designed for her risk profile.",
+    "id": 143
+  },
+  {
+    "chapter": 9,
+    "front": "What single finding, more than any individual symptom, determined the correct pathway for Aisha's workup?",
+    "back": "The correct application of a validated pretest probability score, which placed her outside the population in which PERC or an isolated normal D-dimer could have stopped the evaluation early.",
+    "id": 144
+  },
+  {
+    "chapter": 10,
+    "front": "What prodromal symptoms did Nathan Pryce experience before his syncopal episode?",
+    "back": "Sudden warmth and slight nausea while standing in a warm, crowded pharmacy line for several minutes.",
+    "id": 145
+  },
+  {
+    "chapter": 10,
+    "front": "What prior history did Nathan report that supported a vasovagal mechanism?",
+    "back": "A similar lightheaded episode years earlier after having blood drawn, a classic vasovagal trigger, for which he never sought care.",
+    "id": 146
+  },
+  {
+    "chapter": 10,
+    "front": "What features of Nathan's recovery argued against a seizure as the cause of his episode?",
+    "back": "He felt fully back to normal within a couple of minutes, with no tongue biting, incontinence, or prolonged post-ictal confusion.",
+    "id": 147
+  },
+  {
+    "chapter": 10,
+    "front": "Why is an EKG obtained in nearly every syncope evaluation, even when the history sounds classically vasovagal?",
+    "back": "Because a normal-appearing patient with a benign history can still harbor an EKG abnormality, such as prolonged QT, Brugada pattern, or pre-excitation, that changes the risk category.",
+    "id": 148
+  },
+  {
+    "chapter": 10,
+    "front": "What did Nathan's EKG show?",
+    "back": "Normal sinus rhythm with a normal QT interval and no evidence of structural or electrical abnormality.",
+    "id": 149
+  },
+  {
+    "chapter": 10,
+    "front": "Name four red-flag features that would argue against a vasovagal cause of syncope and toward a cardiac cause.",
+    "back": "Syncope during exertion, family history of sudden cardiac death, syncope occurring while supine, and an abnormal cardiac exam or EKG.",
+    "id": 150
+  },
+  {
+    "chapter": 10,
+    "front": "What risk category did Nathan fall into after his structured risk assessment, and what did that determine?",
+    "back": "A low-risk category, which supported reassurance and outpatient management without further cardiac monitoring or admission.",
+    "id": 151
+  },
+  {
+    "chapter": 10,
+    "front": "What cognitive bias does this chapter warn against when a clinician accepts a benign syncope diagnosis based on story alone?",
+    "back": "Premature closure, accepting a satisfying explanation before actively checking for the specific findings that would argue against it.",
+    "id": 152
+  },
+  {
+    "chapter": 10,
+    "front": "What counter-maneuvers is Nathan taught to use if he senses a vasovagal prodrome coming on?",
+    "back": "Leg crossing and muscle tensing, which can help abort an episode if recognized early enough.",
+    "id": 153
+  },
+  {
+    "chapter": 10,
+    "front": "What is the most common cause of syncope across nearly all age groups?",
+    "back": "Vasovagal syncope, mediated by an exaggerated autonomic reflex producing transient hypotension and bradycardia.",
+    "id": 154
+  },
+  {
+    "chapter": 10,
+    "front": "Why does indiscriminate cardiac monitoring or imaging for every syncope patient represent a problem?",
+    "back": "It would represent significant overuse of resources relative to the actual distribution of underlying causes, most of which are benign vasovagal episodes.",
+    "id": 155
+  },
+  {
+    "chapter": 10,
+    "front": "What would a significantly prolonged QT interval on Nathan's EKG have changed about his management?",
+    "back": "It would have warranted further cardiac evaluation, including assessment for reversible causes of QT prolongation and cardiology involvement, regardless of how benign his history sounded.",
+    "id": 156
+  },
+  {
+    "chapter": 10,
+    "front": "What was Nathan's orthostatic blood pressure check result, and why does that matter?",
+    "back": "It showed no significant drop from lying to standing, helping rule out orthostatic hypotension as the cause of his syncope.",
+    "id": 157
+  },
+  {
+    "chapter": 10,
+    "front": "What combination of findings, taken together, determined Nathan's final management rather than any single reassuring feature?",
+    "back": "A classic situational trigger, typical prodrome, brief fully resolved episode without post-ictal features, normal exam, and a normal EKG obtained specifically to exclude electrical abnormalities.",
+    "id": 158
+  },
+  {
+    "chapter": 10,
+    "front": "Why does syncope evaluation emphasize checking for red-flag features even when the presenting story sounds textbook vasovagal?",
+    "back": "Because cardiac syncope carries meaningfully higher mortality risk and is the category most important not to miss under the reassuring pull of a classic vasovagal story.",
+    "id": 159
+  },
+  {
+    "chapter": 10,
+    "front": "What was notably normal about Nathan's cardiac and neurologic exam at presentation?",
+    "back": "Both were entirely unremarkable, consistent with his overall low-risk classification for a cardiac cause of syncope.",
+    "id": 160
+  },
+  {
+    "chapter": 11,
+    "front": "How many hemodialysis sessions had Thomas Reyes missed before this presentation, and why?",
+    "back": "He missed his last two sessions, one for a scheduling conflict and one because he admitted he simply did not feel like going.",
+    "id": 161
+  },
+  {
+    "chapter": 11,
+    "front": "What dietary intake two days before presentation likely contributed to Thomas's hyperkalemia?",
+    "back": "A large meal that included bananas and a salt substitute containing potassium chloride, foods he is supposed to limit.",
+    "id": 162
+  },
+  {
+    "chapter": 11,
+    "front": "What were Thomas's presenting symptoms besides generalized weakness?",
+    "back": "Mild palpitations and tingling around his mouth and in his fingertips, along with diminished deep tendon reflexes on exam.",
+    "id": 163
+  },
+  {
+    "chapter": 11,
+    "front": "What was Thomas's presenting heart rate, and what does it signify in this context?",
+    "back": "Heart rate 52, new bradycardia that, combined with his missed dialysis and dietary history, is part of the classic picture pointing to severe hyperkalemia.",
+    "id": 164
+  },
+  {
+    "chapter": 11,
+    "front": "What EKG changes did Thomas show, consistent with severe hyperkalemia?",
+    "back": "Peaked T waves, a widened QRS complex, and a prolonged PR interval.",
+    "id": 165
+  },
+  {
+    "chapter": 11,
+    "front": "What was Thomas's stat potassium level, and what did his metabolic panel also reveal?",
+    "back": "Potassium of 7.8, confirming severe hyperkalemia; his creatinine was markedly elevated above his known dialysis baseline.",
+    "id": 166
+  },
+  {
+    "chapter": 11,
+    "front": "Why does treatment for suspected severe hyperkalemia begin before the formal laboratory potassium result returns?",
+    "back": "Because the time required for laboratory confirmation could allow a treatable, reversible process to progress to a fatal arrhythmia.",
+    "id": 167
+  },
+  {
+    "chapter": 11,
+    "front": "What is the specific role of calcium gluconate in treating severe hyperkalemia?",
+    "back": "It stabilizes the cardiac cell membrane and reduces arrhythmia risk, without directly lowering the serum potassium level.",
+    "id": 168
+  },
+  {
+    "chapter": 11,
+    "front": "What therapies actually shift potassium intracellularly to temporarily lower serum potassium, and how do they differ from calcium gluconate?",
+    "back": "Insulin with concurrent dextrose and inhaled beta-agonist therapy shift potassium intracellularly, unlike calcium gluconate, which only stabilizes the cardiac membrane without lowering potassium.",
+    "id": 169
+  },
+  {
+    "chapter": 11,
+    "front": "What is the only treatment that definitively removes excess potassium from the body?",
+    "back": "Dialysis, since calcium gluconate, insulin, dextrose, and beta-agonists only temporize or redistribute potassium rather than eliminate it.",
+    "id": 170
+  },
+  {
+    "chapter": 11,
+    "front": "How does this case exemplify an exception to the usual diagnosis-before-treatment sequence in internal medicine?",
+    "back": "Treatment for severe hyperkalemia begins based on EKG and clinical suspicion, rather than waiting for the formal laboratory potassium value, given the risk of rapid progression to a fatal arrhythmia.",
+    "id": 171
+  },
+  {
+    "chapter": 11,
+    "front": "What is the progressive sequence of EKG changes seen with worsening hyperkalemia?",
+    "back": "Peaked T waves, then PR interval prolongation, then QRS widening, and eventually a sine-wave pattern preceding cardiac arrest.",
+    "id": 172
+  },
+  {
+    "chapter": 11,
+    "front": "Does a normal EKG fully exclude clinically significant hyperkalemia in a dialysis patient with a concerning history?",
+    "back": "No, a normal EKG does not fully exclude it, particularly with recent-onset elevation, so a stat potassium level should still be obtained and managed based on the clinical picture.",
+    "id": 173
+  },
+  {
+    "chapter": 11,
+    "front": "What happened to Thomas's potassium level and EKG changes after emergent dialysis?",
+    "back": "His repeat potassium normalized, with resolution of his EKG changes and symptoms.",
+    "id": 174
+  },
+  {
+    "chapter": 11,
+    "front": "What conversation took place before Thomas's discharge regarding his missed sessions?",
+    "back": "His care team discussed what specifically led to the missed sessions, to identify whether a modifiable barrier such as transportation or scheduling could be addressed going forward.",
+    "id": 175
+  },
+  {
+    "chapter": 11,
+    "front": "Why is a dialysis patient with missed sessions, weakness, paresthesias, and new bradycardia treated as a near-simultaneous diagnose-and-treat emergency?",
+    "back": "Because severe hyperkalemia can progress rapidly to a fatal arrhythmia, making this one of the few presentations where treatment is presumed and started essentially simultaneously with laboratory confirmation.",
+    "id": 176
+  },
+  {
+    "chapter": 12,
+    "front": "Why did Harold Btiste come in for this visit, and what symptoms did he report?",
+    "back": "A scheduled diabetes follow-up; he reported feeling more tired than usual for about four days and a little short of breath walking from the parking lot, with no chest pain even on direct questioning.",
+    "id": 177
+  },
+  {
+    "chapter": 12,
+    "front": "What key risk factors does Harold have for coronary artery disease?",
+    "back": "Type 2 diabetes for nineteen years with poor long-term glycemic control, hypertension, documented peripheral neuropathy, and a former smoking history.",
+    "id": 178
+  },
+  {
+    "chapter": 12,
+    "front": "What two new exam findings were present at this visit that were absent six months earlier?",
+    "back": "A new fourth heart sound and faint bibasilar crackles.",
+    "id": 179
+  },
+  {
+    "chapter": 12,
+    "front": "What was notable about Harold's blood pressure today compared to his usual baseline, and why does it matter?",
+    "back": "It was 108 over 68, lower than his usual baseline in the 130s; a relative drop like this can reflect a failing left ventricle rather than improved control.",
+    "id": 180
+  },
+  {
+    "chapter": 12,
+    "front": "What mechanism explains why Harold did not experience chest pain during his myocardial infarction?",
+    "back": "Diabetic autonomic neuropathy, the same nerve damage causing foot numbness, can blunt the visceral pain signaling that would otherwise produce classic angina.",
+    "id": 181
+  },
+  {
+    "chapter": 12,
+    "front": "What did Harold's EKG show, and what did this indicate about the timing of his infarction?",
+    "back": "New Q waves in the inferior leads (II, III, aVF) with subtle anterolateral ST depression, indicating the infarction occurred some days prior and evolved silently, rather than being acute with ST elevation.",
+    "id": 182
+  },
+  {
+    "chapter": 12,
+    "front": "What did Harold's troponin and chest radiograph show?",
+    "back": "A markedly elevated troponin, and a chest radiograph showing mild pulmonary vascular congestion consistent with early volume overload.",
+    "id": 183
+  },
+  {
+    "chapter": 12,
+    "front": "What was Harold's final diagnosis and its complication?",
+    "back": "A subacute myocardial infarction complicated by early heart failure, evidenced by his pulmonary congestion and new gallop.",
+    "id": 184
+  },
+  {
+    "chapter": 12,
+    "front": "What did Harold's cardiac catheterization reveal, and how was it managed?",
+    "back": "Multivessel coronary disease, with intervention performed on the culprit lesion.",
+    "id": 185
+  },
+  {
+    "chapter": 12,
+    "front": "What is the relationship described between Harold's worsening blood sugar log and his evolving infarction?",
+    "back": "His elevated blood sugars in the days before the visit likely both resulted from and contributed to the physiologic stress of the evolving infarction.",
+    "id": 186
+  },
+  {
+    "chapter": 12,
+    "front": "What specific finding actually changed the course of Harold's visit, since he reported nothing cardiac?",
+    "back": "The clinician's decision to weigh his exam changes and risk profile more heavily than his denial of chest pain, prompting an EKG despite a reassuring symptom history.",
+    "id": 187
+  },
+  {
+    "chapter": 12,
+    "front": "Why is silent myocardial infarction disproportionately common in patients with diabetic autonomic neuropathy?",
+    "back": "The same autonomic nerve damage that produces peripheral numbness can blunt the visceral afferent pathways responsible for transmitting ischemic cardiac pain.",
+    "id": 188
+  },
+  {
+    "chapter": 12,
+    "front": "According to the Did You Know section, what should lower the threshold for cardiac evaluation in diabetic patients with known neuropathy?",
+    "back": "Nonspecific symptoms such as fatigue, dyspnea, or unexplained glycemic changes, rather than requiring chest pain as a prerequisite for pursuing cardiac workup.",
+    "id": 189
+  },
+  {
+    "chapter": 12,
+    "front": "What ordinary, non-cardiac explanations could plausibly have accounted for Harold's fatigue and mild dyspnea if exam changes had not been weighed against his risk profile?",
+    "back": "Poor sleep, medication effect, deconditioning, or worsening glycemic control itself.",
+    "id": 190
+  },
+  {
+    "chapter": 12,
+    "front": "What would have happened had Harold's workup stopped at his verbal denial of chest discomfort?",
+    "back": "His infarction would likely have gone undiagnosed for days or weeks longer, with a meaningfully worse prognosis.",
+    "id": 191
+  },
+  {
+    "chapter": 12,
+    "front": "What does a single normal troponin and EKG NOT rule out when new exam findings persist, according to this chapter?",
+    "back": "An evolving cardiac process; a single normal time point does not exclude ongoing ischemia, so repeat testing and continued evaluation are warranted.",
+    "id": 192
+  },
+  {
+    "chapter": 13,
+    "front": "Why is fever an unreliable finding for ruling out infection in immunosuppressed patients like Fen Zhao?",
+    "back": "Immunosuppressive regimens blunt the inflammatory response that produces fever, so a normal temperature does not reliably exclude a significant, even opportunistic, infection.",
+    "id": 193
+  },
+  {
+    "chapter": 13,
+    "front": "What was Fen Zhao's oxygen saturation on room air at her transplant clinic visit?",
+    "back": "91 percent on room air, discordantly low relative to how clinically well she appeared at rest.",
+    "id": 194
+  },
+  {
+    "chapter": 13,
+    "front": "What immunosuppressive regimen was Fen Zhao maintained on three months after her kidney transplant?",
+    "back": "Tacrolimus, mycophenolate, and a prednisone taper at a low maintenance dose.",
+    "id": 195
+  },
+  {
+    "chapter": 13,
+    "front": "What chest radiograph pattern did Fen Zhao show, and how does it differ from typical bacterial pneumonia?",
+    "back": "Bilateral, diffuse, ground-glass-appearing infiltrates, distinct from the focal lobar consolidation typical of bacterial pneumonia and more suggestive of an atypical or opportunistic process.",
+    "id": 196
+  },
+  {
+    "chapter": 13,
+    "front": "Which two laboratory tests confirmed Fen Zhao's diagnosis of Pneumocystis jirovecii pneumonia?",
+    "back": "A positive Pneumocystis jirovecii PCR from sputum and an elevated beta-D-glucan level, while bacterial cultures remained negative.",
+    "id": 197
+  },
+  {
+    "chapter": 13,
+    "front": "Why were Fen Zhao's CD4 count and tacrolimus level checked during her workup?",
+    "back": "To assess her overall degree of immunosuppression, since a supratherapeutic tacrolimus level would identify a modifiable contributor to her infection risk.",
+    "id": 198
+  },
+  {
+    "chapter": 13,
+    "front": "What treatment was Fen Zhao started on for Pneumocystis pneumonia, and why were corticosteroids added?",
+    "back": "High-dose trimethoprim-sulfamethoxazole, with adjunctive corticosteroids added because her degree of hypoxia met the threshold at which steroids have shown benefit in this infection.",
+    "id": 199
+  },
+  {
+    "chapter": 13,
+    "front": "What preventive measure had lapsed in Fen Zhao's care before this admission?",
+    "back": "Pneumocystis jirovecii prophylaxis, which had lapsed earlier than intended after her transplant.",
+    "id": 200
+  },
+  {
+    "chapter": 13,
+    "front": "Why is the period immediately following solid organ transplantation the highest-risk window for Pneumocystis jirovecii pneumonia?",
+    "back": "Because this period carries the most intense immunosuppression, which is why prophylaxis is standard practice during this window.",
+    "id": 201
+  },
+  {
+    "chapter": 13,
+    "front": "What was Fen Zhao's white blood cell count pattern, and how should it be interpreted in her context?",
+    "back": "Only mildly elevated, blunted by her chronic immunosuppression relative to what an equivalent bacterial burden would produce in an immunocompetent patient.",
+    "id": 202
+  },
+  {
+    "chapter": 13,
+    "front": "What specific exam findings did Fen Zhao have that were easy to miss on a cursory assessment?",
+    "back": "Faint crackles at the right lung base and mild accessory muscle use, both subtle enough to be overlooked without close observation.",
+    "id": 203
+  },
+  {
+    "chapter": 13,
+    "front": "What finding actually changed the course of Fen Zhao's case, according to the chapter's teaching point?",
+    "back": "The combination of a discordantly low oxygen saturation in a comfortable-appearing patient and bilateral ground-glass infiltrates, interpreted against her immunosuppressive regimen and time since transplant, not her temperature.",
+    "id": 204
+  },
+  {
+    "chapter": 13,
+    "front": "Besides Pneumocystis jirovecii, what other opportunistic pathogens does the chapter name as part of the broadened differential in immunosuppressed transplant patients?",
+    "back": "Cytomegalovirus pneumonitis and fungal pathogens, which rank far lower in an immunocompetent patient of the same age.",
+    "id": 205
+  },
+  {
+    "chapter": 13,
+    "front": "What would be the appropriate next step if Fen Zhao's Pneumocystis PCR and beta-D-glucan had both been negative?",
+    "back": "Continue evaluation for alternative infectious and noninfectious causes, including cytomegalovirus and fungal pathogens, given her ongoing hypoxia and abnormal imaging.",
+    "id": 206
+  },
+  {
+    "chapter": 13,
+    "front": "What was the danger the chapter identifies if the workup had anchored on Fen Zhao's normal temperature as reassuring?",
+    "back": "The workup could have been delayed long enough for a treatable opportunistic infection to progress to respiratory failure.",
+    "id": 207
+  },
+  {
+    "chapter": 13,
+    "front": "What underlying condition led to Fen Zhao's kidney transplant?",
+    "back": "End-stage renal disease secondary to longstanding diabetic nephropathy.",
+    "id": 208
+  },
+  {
+    "chapter": 14,
+    "front": "Why was Adaeze Chukwu, an 83-year-old woman, initially admitted?",
+    "back": "For failure to thrive and poor oral intake over the preceding week, with no acute complaints noted on the overnight handoff.",
+    "id": 209
+  },
+  {
+    "chapter": 14,
+    "front": "How did Adaeze's right upper quadrant symptom come to light?",
+    "back": "The day team resident asked her directly whether anything hurt, and she described a vague fullness under her right ribs that she had not thought worth mentioning.",
+    "id": 210
+  },
+  {
+    "chapter": 14,
+    "front": "What key exam finding was notably absent in Adaeze despite her eventual diagnosis of cholecystitis?",
+    "back": "A positive Murphy's sign; she had only vague discomfort on deep palpation rather than the sharp, reproducible tenderness typical of an inflamed gallbladder.",
+    "id": 211
+  },
+  {
+    "chapter": 14,
+    "front": "What mechanism explains why elderly patients like Adaeze can have cholecystitis without significant pain?",
+    "back": "Diminished visceral pain perception related to age-related changes in visceral afferent nerve density and central pain processing.",
+    "id": 212
+  },
+  {
+    "chapter": 14,
+    "front": "What did Adaeze's right upper quadrant ultrasound show?",
+    "back": "Multiple gallstones, gallbladder wall thickening measuring 5 millimeters, and pericholecystic fluid, consistent with cholecystitis.",
+    "id": 213
+  },
+  {
+    "chapter": 14,
+    "front": "What was Adaeze's white blood cell count, and how should it be interpreted given her age?",
+    "back": "11,400, only mildly elevated relative to what a comparable degree of gallbladder inflammation would produce in a younger patient.",
+    "id": 214
+  },
+  {
+    "chapter": 14,
+    "front": "What did Adaeze's liver function tests show, and what did this argue against at that point in her workup?",
+    "back": "Mild alkaline phosphatase elevation without significant transaminase elevation, arguing against choledocholithiasis with common bile duct obstruction, though this was monitored rather than assumed fixed.",
+    "id": 215
+  },
+  {
+    "chapter": 14,
+    "front": "How was Adaeze ultimately managed for her cholecystitis?",
+    "back": "Intravenous antibiotics followed by cholecystectomy once she was medically optimized, since surgery addresses the underlying disease and reduces recurrence risk.",
+    "id": 216
+  },
+  {
+    "chapter": 14,
+    "front": "What happened to Adaeze's appetite and energy after treatment, and what did this confirm?",
+    "back": "They improved substantially, retrospectively confirming that her failure to thrive was a specific, treatable organic process rather than a consequence of age or grief.",
+    "id": 217
+  },
+  {
+    "chapter": 14,
+    "front": "What two factors had the family attributed Adaeze's withdrawal and increased sleep to before her diagnosis?",
+    "back": "Her age and grief following the recent death of a close friend.",
+    "id": 218
+  },
+  {
+    "chapter": 14,
+    "front": "According to this chapter, what is \"failure to thrive\" as an admitting diagnosis in elderly patients?",
+    "back": "A description of a clinical picture, not an explanation, that should prompt an active search for an underlying organic, psychiatric, or social cause.",
+    "id": 219
+  },
+  {
+    "chapter": 14,
+    "front": "What specific decision, rather than a dramatic exam finding, changed the course of Adaeze's case?",
+    "back": "The decision to ask a direct, specific question about pain rather than accept the failure to thrive framing she was admitted under.",
+    "id": 220
+  },
+  {
+    "chapter": 14,
+    "front": "What would elevated transaminases and bilirubin alongside Adaeze's ultrasound findings have suggested, and what workup would that prompt?",
+    "back": "Concern for choledocholithiasis with possible common bile duct obstruction, warranting further evaluation such as MRCP or ERCP.",
+    "id": 221
+  },
+  {
+    "chapter": 14,
+    "front": "What were Adaeze's vital signs on exam, and what did they suggest about her acuity?",
+    "back": "Temperature 37.0 C, heart rate 88, blood pressure 132/78, all unremarkable, illustrating that her biliary process presented without the vital sign abnormalities typically expected.",
+    "id": 222
+  },
+  {
+    "chapter": 14,
+    "front": "What teaching point does this case reinforce about elderly patients who underreport symptoms?",
+    "back": "Direct, specific questioning, rather than reliance on spontaneously volunteered complaints, is often necessary to uncover atypical presentations in elderly patients.",
+    "id": 223
+  },
+  {
+    "chapter": 14,
+    "front": "How did Adaeze describe the sensation under her right ribs when asked directly?",
+    "back": "As more of a pressure than a pain, present for about a week, something she did not think was worth calling anyone about.",
+    "id": 224
+  },
+  {
+    "chapter": 15,
+    "front": "What was the presenting complaint that brought 88-year-old Beatrice Sumner to the emergency department?",
+    "back": "Acute confusion found by her home health aide; she could not state the day or location and did not recognize the aide's name for the first time in two years.",
+    "id": 225
+  },
+  {
+    "chapter": 15,
+    "front": "What was Beatrice's temperature throughout her entire evaluation?",
+    "back": "Essentially normal, recorded at 37.2 degrees Celsius in the emergency department, and she never developed a fever throughout the entire workup.",
+    "id": 226
+  },
+  {
+    "chapter": 15,
+    "front": "What were Beatrice's vital signs in the emergency department besides her normal temperature?",
+    "back": "Heart rate 106, blood pressure 98/60, respiratory rate 22, and oxygen saturation 95 percent on room air.",
+    "id": 227
+  },
+  {
+    "chapter": 15,
+    "front": "What did Beatrice's urinalysis show?",
+    "back": "Positive leukocyte esterase, positive nitrites, white blood cells too numerous to count, and bacteria present, obtained via catheterized specimen.",
+    "id": 228
+  },
+  {
+    "chapter": 15,
+    "front": "What was Beatrice's lactate level, and what does it reflect?",
+    "back": "Elevated at 3.4, reflecting tissue hypoperfusion and metabolic stress consistent with sepsis.",
+    "id": 229
+  },
+  {
+    "chapter": 15,
+    "front": "What four findings together established Beatrice's diagnosis of sepsis from a urinary source?",
+    "back": "A urinary infection source, an elevated lactate, tachycardia, and new acute kidney injury, as a composite picture rather than any single finding.",
+    "id": 230
+  },
+  {
+    "chapter": 15,
+    "front": "Why is fever an unreliable sign to rule out sepsis in elderly patients like Beatrice?",
+    "back": "Older adults, especially those with baseline frailty, frequently mount a blunted febrile response to infection.",
+    "id": 231
+  },
+  {
+    "chapter": 15,
+    "front": "How quickly did Beatrice's mental status improve after starting treatment, and what did this confirm?",
+    "back": "It began improving within 24 hours and returned to her documented baseline by hospital day two, confirming her delirium was a direct consequence of the infectious process.",
+    "id": 232
+  },
+  {
+    "chapter": 15,
+    "front": "What did Beatrice's head CT show, and why was it not sufficient alone to end her workup?",
+    "back": "No acute hemorrhage or large territory infarct; a normal head CT does not exclude other causes of delirium, particularly infection.",
+    "id": 233
+  },
+  {
+    "chapter": 15,
+    "front": "Why is delirium increasingly described as a vital sign in geriatric and emergency medicine literature?",
+    "back": "Because it is frequently the earliest, and sometimes the only, presenting sign of serious underlying illness in older adults whose other expected signs, especially fever, are often blunted or absent.",
+    "id": 234
+  },
+  {
+    "chapter": 15,
+    "front": "What was Beatrice's white blood cell count, and what additional feature did it show?",
+    "back": "15,600 with a significant left shift.",
+    "id": 235
+  },
+  {
+    "chapter": 15,
+    "front": "What did Beatrice's basic metabolic panel reveal about her renal function and glucose?",
+    "back": "Mildly elevated creatinine above her documented baseline, consistent with early acute kidney injury, and a normal glucose, arguing against hypoglycemia as a cause of her delirium.",
+    "id": 236
+  },
+  {
+    "chapter": 15,
+    "front": "Why was a catheterized urine specimen used to evaluate Beatrice rather than a clean-catch sample?",
+    "back": "Her altered mental status made her unable to reliably provide a clean sample on her own.",
+    "id": 237
+  },
+  {
+    "chapter": 15,
+    "front": "What would be the appropriate next step if Beatrice's lactate and urinalysis had both been negative but her delirium persisted?",
+    "back": "Continue evaluation for alternative causes of delirium, including other infectious sources, medication effects, and metabolic derangements.",
+    "id": 238
+  },
+  {
+    "chapter": 15,
+    "front": "What broad differential does Book One's framework require for acute mental status change in an elderly patient?",
+    "back": "Stroke, metabolic derangement, medication effect, intracranial process, and infection, each actively screened for rather than assumed absent.",
+    "id": 239
+  },
+  {
+    "chapter": 15,
+    "front": "How did Beatrice's daughter's history help narrow the diagnosis?",
+    "back": "She confirmed Beatrice had never had a prior episode of confusion and had no history of dementia, establishing this as a new, acute change requiring evaluation for a reversible cause.",
+    "id": 240
+  },
+  {
+    "chapter": 16,
+    "front": "What was 79-year-old Marion's presenting complaint according to her son?",
+    "back": "Two months of profound apathy, withdrawal from activities, an estimated fifteen-pound weight loss despite a normal or increased appetite, and a new stillness unlike typical depression.",
+    "id": 241
+  },
+  {
+    "chapter": 16,
+    "front": "What condition is apathetic thyrotoxicosis, and in whom does it disproportionately occur?",
+    "back": "A recognized presentation of hyperthyroidism disproportionately seen in elderly patients, producing blunted, withdrawn, low-energy behavior rather than the anxious, tremulous picture typical in younger patients.",
+    "id": 242
+  },
+  {
+    "chapter": 16,
+    "front": "What were Marion's key vital sign and exam findings on presentation?",
+    "back": "Heart rate 104, irregularly irregular; blood pressure 138/62 with a wide pulse pressure; afebrile; fine, warm, moist skin; and deep tendon reflexes with a rapid relaxation phase.",
+    "id": 243
+  },
+  {
+    "chapter": 16,
+    "front": "What did Marion's thyroid function testing show?",
+    "back": "A markedly suppressed thyroid-stimulating hormone with significantly elevated free thyroxine and triiodothyronine, confirming thyrotoxicosis.",
+    "id": 244
+  },
+  {
+    "chapter": 16,
+    "front": "What did Marion's EKG show, and how did it factor into her evaluation?",
+    "back": "Atrial fibrillation with a rapid ventricular response, which was factored into her Burch-Wartofsky score as a cardiovascular dysfunction finding.",
+    "id": 245
+  },
+  {
+    "chapter": 16,
+    "front": "What five domains does the Burch-Wartofsky scoring system incorporate?",
+    "back": "Thermoregulatory dysfunction, central nervous system effects, gastrointestinal or hepatic dysfunction, cardiovascular dysfunction, and precipitant history.",
+    "id": 246
+  },
+  {
+    "chapter": 16,
+    "front": "Why was the Burch-Wartofsky scoring system more useful than pattern-matching to classic thyrotoxicosis in Marion's case?",
+    "back": "It incorporates a broad range of findings across organ systems, allowing identification of thyroid storm even in an atypical, apathetic presentation lacking fever and agitation.",
+    "id": 247
+  },
+  {
+    "chapter": 16,
+    "front": "What mechanism explains why Marion's thyrotoxicosis presented as apathy rather than anxiety and tremor?",
+    "back": "Age-related blunting of the sympathetic nervous system's response to excess thyroid hormone.",
+    "id": 248
+  },
+  {
+    "chapter": 16,
+    "front": "How was Marion treated for thyroid storm?",
+    "back": "Beta-blockade to control heart rate and reduce peripheral hormone conversion, thionamide therapy to block new hormone synthesis, and iodine solution given after the thionamide to further block hormone release.",
+    "id": 249
+  },
+  {
+    "chapter": 16,
+    "front": "What happened to Marion's antidepressant once her thyroid disease was confirmed?",
+    "back": "It was discontinued, since it had been started for a presumed diagnosis that never adequately explained her full clinical picture.",
+    "id": 250
+  },
+  {
+    "chapter": 16,
+    "front": "How did Marion respond to treatment for thyroid storm?",
+    "back": "Her heart rate and mental status began improving within 48 hours, and her son described her as \"herself again\" within two weeks.",
+    "id": 251
+  },
+  {
+    "chapter": 16,
+    "front": "Why is preserved or increased appetite alongside weight loss a clue against a primary depression diagnosis?",
+    "back": "Major depression usually involves appetite change in the same direction as mood, so a dissociation between flat affect and preserved appetite should raise suspicion for an organic cause.",
+    "id": 252
+  },
+  {
+    "chapter": 16,
+    "front": "What composite of findings, rather than one dramatic symptom, prompted thyroid testing in Marion's case?",
+    "back": "New atrial fibrillation, a wide pulse pressure, and subtle reflex changes, combined with her lack of response to antidepressant therapy.",
+    "id": 253
+  },
+  {
+    "chapter": 16,
+    "front": "What does current thyroid disease guidance recommend for elderly patients with unexplained apathy, weight loss, or new arrhythmia?",
+    "back": "A lower threshold for thyroid function testing, rather than requiring classic hyperthyroid symptoms before testing is pursued.",
+    "id": 254
+  },
+  {
+    "chapter": 16,
+    "front": "What general teaching point does Marion's case illustrate about treatment nonresponse for an assumed diagnosis?",
+    "back": "An unremarkable response to treatment should prompt reconsideration of the diagnosis itself, not simply escalation or switching within the same presumed treatment category.",
+    "id": 255
+  },
+  {
+    "chapter": 16,
+    "front": "What classic thyrotoxicosis findings did Marion notably lack on exam?",
+    "back": "A coarse hand tremor, lid lag, and obvious anxiety, findings often associated with thyrotoxicosis in younger patients.",
+    "id": 256
+  },
+  {
+    "chapter": 17,
+    "front": "What specific exam finding, elicited within seconds by extending Roger's wrists, most narrows the differential toward metabolic encephalopathy?",
+    "back": "Asterixis, a coarse, irregular flapping tremor, which strongly suggests hepatic, uremic, or hypercapnic encephalopathy once present.",
+    "id": 257
+  },
+  {
+    "chapter": 17,
+    "front": "What four physical exam findings, all present at Roger's very first exam, ultimately redirected his diagnosis away from a primary psychiatric process?",
+    "back": "Jaundice, ascites, palmar erythema, and asterixis, the stigmata of chronic liver disease and metabolic encephalopathy.",
+    "id": 258
+  },
+  {
+    "chapter": 17,
+    "front": "What detail did Roger's brother provide by phone that pointed to the specific precipitant of this encephalopathy episode?",
+    "back": "He mentioned Roger had been more constipated than usual over the past week, which increases colonic ammonia absorption and production.",
+    "id": 259
+  },
+  {
+    "chapter": 17,
+    "front": "What four laboratory abnormalities did Roger's initial labs show, consistent with decompensated cirrhosis?",
+    "back": "Elevated ammonia, elevated bilirubin, low albumin, and a prolonged prothrombin time.",
+    "id": 260
+  },
+  {
+    "chapter": 17,
+    "front": "Why was a diagnostic paracentesis performed on Roger's ascitic fluid?",
+    "back": "To evaluate for spontaneous bacterial peritonitis, a well-recognized additional precipitant of hepatic encephalopathy in cirrhotic patients.",
+    "id": 261
+  },
+  {
+    "chapter": 17,
+    "front": "What did Roger's paracentesis fluid analysis show, and what did this argue against?",
+    "back": "A neutrophil count below the infection threshold, arguing against spontaneous bacterial peritonitis as an additional contributing precipitant.",
+    "id": 262
+  },
+  {
+    "chapter": 17,
+    "front": "What treatment was Roger started on, and through what dual mechanism does it work?",
+    "back": "Lactulose, which acidifies the colonic environment to promote ammonia excretion while also treating his underlying constipation directly.",
+    "id": 263
+  },
+  {
+    "chapter": 17,
+    "front": "According to the chapter, what four factors most commonly precipitate hepatic encephalopathy in a cirrhotic patient?",
+    "back": "Constipation, infection, gastrointestinal bleeding, or medication noncompliance.",
+    "id": 264
+  },
+  {
+    "chapter": 17,
+    "front": "Why is constipation considered an easily overlooked precipitant of hepatic encephalopathy compared to infection or bleeding?",
+    "back": "It does not present with dramatic symptoms of its own, so it is easy to miss unless a specific bowel habit history is taken.",
+    "id": 265
+  },
+  {
+    "chapter": 17,
+    "front": "What core teaching principle does this chapter draw from Book One's altered mental status framework?",
+    "back": "An acute change in mental status requires an active search for a specific, often reversible cause rather than a default assumption of a primary psychiatric process.",
+    "id": 266
+  },
+  {
+    "chapter": 17,
+    "front": "How much time did it take Roger's mental status to improve substantially after starting lactulose?",
+    "back": "About 48 hours, as his bowel movements normalized.",
+    "id": 267
+  },
+  {
+    "chapter": 17,
+    "front": "What two additional exam findings did Roger have beyond jaundice, alongside a mildly distended abdomen?",
+    "back": "Palmar erythema and a positive fluid wave indicating ascites.",
+    "id": 268
+  },
+  {
+    "chapter": 17,
+    "front": "What was Roger's relevant past medical history, as eventually obtained from his brother?",
+    "back": "A long-standing history of alcohol use and a diagnosis of cirrhosis two years earlier, with inconsistent follow-up care.",
+    "id": 269
+  },
+  {
+    "chapter": 17,
+    "front": "What would likely have happened if Roger's evaluation had proceeded directly to psychiatric assessment without a full physical exam?",
+    "back": "A reversible, precipitant-driven metabolic encephalopathy would likely have gone unrecognized and could have progressed to a deeper, more dangerous level.",
+    "id": 270
+  },
+  {
+    "chapter": 17,
+    "front": "Besides scleral icterus, what other physical sign did the nurse notice while helping Roger onto the stretcher?",
+    "back": "A sweetish, distinctive breath odor.",
+    "id": 271
+  },
+  {
+    "chapter": 17,
+    "front": "What did Roger's complete blood count and basic metabolic panel show beyond the findings supporting hepatic encephalopathy?",
+    "back": "Mild thrombocytopenia, consistent with his known cirrhosis.",
+    "id": 272
+  },
+  {
+    "chapter": 18,
+    "front": "What were Walter Pruitt's presenting symptoms over the four days before admission?",
+    "back": "Worsening shortness of breath, orthopnea now requiring three pillows, bilateral leg swelling beyond baseline, and a productive cough with yellow-green sputum plus one measured fever.",
+    "id": 273
+  },
+  {
+    "chapter": 18,
+    "front": "What was Walter's oxygen saturation on room air at arrival, and what did his exam show alongside it?",
+    "back": "89 percent, with mild respiratory distress, accessory muscle use, elevated jugular venous pressure, bilateral leg edema, and diffuse crackles with a focal right basilar area.",
+    "id": 274
+  },
+  {
+    "chapter": 18,
+    "front": "What two active diagnoses were simultaneously present in Walter's case, according to the chapter?",
+    "back": "Decompensated heart failure with reduced ejection fraction and community-acquired pneumonia.",
+    "id": 275
+  },
+  {
+    "chapter": 18,
+    "front": "What specific reasoning trap does this chapter warn against in patients with a familiar chronic diagnosis?",
+    "back": "Anchoring on the well-documented prior diagnosis and reading new findings, like fever and focal lung findings, as simply an exacerbation rather than screening for a second process.",
+    "id": 276
+  },
+  {
+    "chapter": 18,
+    "front": "What did Walter's chest radiograph show?",
+    "back": "Bilateral pulmonary vascular congestion consistent with volume overload, overlaid with a focal right lower lobe consolidation distinct from the diffuse edema pattern.",
+    "id": 277
+  },
+  {
+    "chapter": 18,
+    "front": "What was Walter's white blood cell count on admission, and why was it significant?",
+    "back": "14,800 with a left shift, higher than would be expected from volume overload alone, supporting a concurrent infectious process.",
+    "id": 278
+  },
+  {
+    "chapter": 18,
+    "front": "What test was sent to help distinguish an infectious process from volume overload alone in Walter's workup, and what did it show?",
+    "back": "Procalcitonin, which returned elevated, supporting a bacterial infectious component.",
+    "id": 279
+  },
+  {
+    "chapter": 18,
+    "front": "Why was diuresis titrated carefully rather than aggressively in Walter's management?",
+    "back": "Because overly rapid diuresis in a patient with concurrent infection risks intravascular volume depletion that could worsen perfusion needed to fight the infection.",
+    "id": 280
+  },
+  {
+    "chapter": 18,
+    "front": "Why were antibiotics started promptly rather than delayed until his volume status was stabilized?",
+    "back": "Because delaying treatment of a likely bacterial infection, which may be driving his decompensation, would let the infection continue driving cardiac stress.",
+    "id": 281
+  },
+  {
+    "chapter": 18,
+    "front": "What physiologic mechanism links infection to acute heart failure decompensation, per this chapter?",
+    "back": "Acute infection increases cardiac metabolic demand and can push a marginally compensated heart into failure.",
+    "id": 282
+  },
+  {
+    "chapter": 18,
+    "front": "How did Walter's clinical status change over the three days following concurrent treatment?",
+    "back": "His oxygen requirement decreased, his weight trended toward his documented dry weight, and his white count normalized as his sputum culture confirmed a treatable pathogen.",
+    "id": 283
+  },
+  {
+    "chapter": 18,
+    "front": "What was Walter discharged on, and what follow-up was arranged?",
+    "back": "An adjusted diuretic regimen and a completed course of oral antibiotics, with close outpatient cardiology follow-up to reassess volume status.",
+    "id": 284
+  },
+  {
+    "chapter": 18,
+    "front": "What is the key sequencing skill this chapter's competing-diagnosis framework teaches?",
+    "back": "Treating both active processes concurrently while accounting for how treatment of one may affect the other, rather than treating one to completion before addressing the second.",
+    "id": 285
+  },
+  {
+    "chapter": 18,
+    "front": "What would have happened if Walter's case had been managed as heart failure alone, according to the chapter?",
+    "back": "An infectious source likely driving his decompensation would have gone untreated.",
+    "id": 286
+  },
+  {
+    "chapter": 18,
+    "front": "What common precipitants of acute decompensated heart failure are named in the chapter's Did You Know section?",
+    "back": "Infection, dietary indiscretion, and medication nonadherence.",
+    "id": 287
+  },
+  {
+    "chapter": 18,
+    "front": "If Walter's procalcitonin and sputum culture had been negative, what should that prompt clinically?",
+    "back": "Reconsideration of continued antibiotic therapy and a shift in management focus toward heart failure decompensation as the primary process.",
+    "id": 288
+  },
+  {
+    "chapter": 19,
+    "front": "What were Julio Faz's admission pH, anion gap, and glucose values, as documented on the outside transfer note?",
+    "back": "pH 7.12, anion gap 28, and glucose 512, confirming diabetic ketoacidosis.",
+    "id": 289
+  },
+  {
+    "chapter": 19,
+    "front": "What detail did Julio's wife provide that the transfer note failed to capture?",
+    "back": "That Julio had a strange, dull ache across his chest two days before admission that came and went with exertion.",
+    "id": 290
+  },
+  {
+    "chapter": 19,
+    "front": "What was Julio's relevant medical history prior to this admission?",
+    "back": "A fifteen-year history of generally well-controlled type 1 diabetes with no prior adult DKA episodes, hypertension, and a 15-pack-year smoking history quit five years earlier.",
+    "id": 291
+  },
+  {
+    "chapter": 19,
+    "front": "What does Kussmaul breathing indicate physiologically, and why did Julio exhibit it?",
+    "back": "It is a compensatory respiratory pattern for severe metabolic acidosis, present here due to his diabetic ketoacidosis.",
+    "id": 292
+  },
+  {
+    "chapter": 19,
+    "front": "According to Book One's framework, why should diabetic ketoacidosis in a well-controlled diabetic prompt a precipitant search?",
+    "back": "Because DKA rarely occurs without an identifiable trigger, such as infection, medication or insulin nonadherence, or an acute illness like myocardial infarction.",
+    "id": 293
+  },
+  {
+    "chapter": 19,
+    "front": "Why was Julio's electrocardiogram obtained despite his own denial of chest pain on arrival?",
+    "back": "Because his wife's collateral history of preceding exertional chest discomfort raised concern for an evolving cardiac event.",
+    "id": 294
+  },
+  {
+    "chapter": 19,
+    "front": "What did Julio's electrocardiogram and troponin show?",
+    "back": "ST-segment elevation in the anterior leads and a markedly elevated troponin.",
+    "id": 295
+  },
+  {
+    "chapter": 19,
+    "front": "What did Julio's cardiac catheterization reveal, and how was it treated?",
+    "back": "An acute thrombotic occlusion of the left anterior descending artery, successfully treated with percutaneous intervention.",
+    "id": 296
+  },
+  {
+    "chapter": 19,
+    "front": "Why did Julio's DKA fluid resuscitation protocol require extra caution once his myocardial infarction was diagnosed?",
+    "back": "Aggressive fluid resuscitation in a patient with acute myocardial injury requires closer monitoring for volume overload than standard DKA protocols alone.",
+    "id": 297
+  },
+  {
+    "chapter": 19,
+    "front": "What was Julio's outcome regarding left ventricular function after treatment?",
+    "back": "Preserved left ventricular function on echocardiogram, attributed to prompt recognition and treatment of his coronary occlusion.",
+    "id": 298
+  },
+  {
+    "chapter": 19,
+    "front": "What specific skill does this case teach about managing a chronic disease decompensation, according to the chapter?",
+    "back": "Maintaining a search for the precipitant even once the presenting diagnosis is fully explained and already being treated, since the precipitant may be an equally urgent, separate process.",
+    "id": 299
+  },
+  {
+    "chapter": 19,
+    "front": "What would have happened to Julio's outcome if the question about recent changes had not been asked, or if it had not prompted an electrocardiogram?",
+    "back": "His myocardial infarction would likely have gone unrecognized until his acidosis resolved, by which point the window for optimal reperfusion would have passed.",
+    "id": 300
+  },
+  {
+    "chapter": 19,
+    "front": "What phenomenon does the chapter's Did You Know section identify as relevant to diabetic patients presenting with DKA?",
+    "back": "Painless or atypical myocardial infarction, with symptoms overlapping with or masked by another acute process such as DKA.",
+    "id": 301
+  },
+  {
+    "chapter": 19,
+    "front": "If Julio's EKG and troponin had been normal but his wife's history remained concerning, what would be the appropriate next step?",
+    "back": "Continue to monitor with serial troponin and EKG, or pursue further cardiac evaluation once his acidosis allows more reliable assessment.",
+    "id": 302
+  },
+  {
+    "chapter": 19,
+    "front": "How long did it take for Julio's diabetic ketoacidosis to resolve with standard protocolized management?",
+    "back": "36 hours.",
+    "id": 303
+  },
+  {
+    "chapter": 19,
+    "front": "Why is a patient's own denial of chest pain not sufficient to exclude myocardial infarction in a case like Julio's?",
+    "back": "Altered mental status or an overwhelming concurrent process, like severe acidosis, may limit the reliability of the patient's own history, making collateral history essential.",
+    "id": 304
+  },
+  {
+    "chapter": 20,
+    "front": "How much weight did Grace Okafor lose, and over what time period?",
+    "back": "About fourteen pounds over four months, without trying.",
+    "id": 305
+  },
+  {
+    "chapter": 20,
+    "front": "What did Grace initially attribute her dark stools to, and why was this explanation insufficient?",
+    "back": "A friend-recommended iron supplement, but she had only started it two weeks earlier, after the stool changes had already begun.",
+    "id": 306
+  },
+  {
+    "chapter": 20,
+    "front": "What did Grace's rectal exam show?",
+    "back": "Dark, guaiac-positive stool.",
+    "id": 307
+  },
+  {
+    "chapter": 20,
+    "front": "What five categories of disease does Book One's constitutional symptom framework list for weight loss and fatigue together?",
+    "back": "Malignancy, endocrine disease, chronic infection, inflammatory disease, and psychiatric causes.",
+    "id": 308
+  },
+  {
+    "chapter": 20,
+    "front": "What specific reasoning shortcut does the chapter warn against once a gastrointestinal source is suspected?",
+    "back": "Assuming the same single lesion automatically explains both the anemia and the weight loss without confirming that assumption.",
+    "id": 309
+  },
+  {
+    "chapter": 20,
+    "front": "What were Grace's hemoglobin and iron study results?",
+    "back": "Hemoglobin 9.2 with a low mean corpuscular volume, low ferritin, and low iron saturation, consistent with iron deficiency anemia.",
+    "id": 310
+  },
+  {
+    "chapter": 20,
+    "front": "What did Grace's normal thyroid-stimulating hormone result contribute to her workup?",
+    "back": "It lowered the likelihood of thyroid disease as a contributor to her weight loss.",
+    "id": 311
+  },
+  {
+    "chapter": 20,
+    "front": "What three factors prompted colonoscopy to be arranged for Grace?",
+    "back": "Her age, guaiac-positive stool, and overdue colorectal cancer screening history.",
+    "id": 312
+  },
+  {
+    "chapter": 20,
+    "front": "What did Grace's colonoscopy and biopsy reveal?",
+    "back": "A 3-centimeter mass in the ascending colon, with pathology confirming adenocarcinoma.",
+    "id": 313
+  },
+  {
+    "chapter": 20,
+    "front": "Why was staging workup still necessary after Grace's colonic mass was identified as adenocarcinoma?",
+    "back": "To confirm the full extent of disease, since a unifying diagnosis still requires confirmation rather than assumption that it accounts for every finding, including possible metastatic spread.",
+    "id": 314
+  },
+  {
+    "chapter": 20,
+    "front": "What did Grace's staging imaging and final pathology show?",
+    "back": "No evidence of distant metastatic disease, with pathology confirming stage II colorectal adenocarcinoma after resection.",
+    "id": 315
+  },
+  {
+    "chapter": 20,
+    "front": "What ultimately caused Grace's anemia to improve?",
+    "back": "Surgical removal of the bleeding source combined with appropriate iron repletion.",
+    "id": 316
+  },
+  {
+    "chapter": 20,
+    "front": "What single decision most changed the trajectory of Grace's case, according to the chapter?",
+    "back": "The physician's decision to investigate her dark stool independently via guaiac testing rather than accepting her own explanation of a new iron supplement.",
+    "id": 317
+  },
+  {
+    "chapter": 20,
+    "front": "Why does the chapter emphasize that Grace's soft, nontender abdominal exam without a palpable mass did not exclude malignancy?",
+    "back": "Because a smaller or deeper lesion may not be detectable on palpation, as demonstrated by her later-diagnosed 3-centimeter ascending colon mass.",
+    "id": 318
+  },
+  {
+    "chapter": 20,
+    "front": "Which populations does the chapter's Did You Know section identify as warranting colonoscopy for unexplained iron deficiency anemia?",
+    "back": "A man of any age or a postmenopausal woman, due to the risk of occult gastrointestinal malignancy, even without overt bleeding.",
+    "id": 319
+  },
+  {
+    "chapter": 20,
+    "front": "What would likely have happened if Grace's stool changes had been accepted at face value as a supplement side effect?",
+    "back": "Her diagnosis would likely have been made later, potentially at a more advanced and less favorable stage.",
+    "id": 320
+  },
+  {
+    "chapter": 21,
+    "front": "What four systemic features did Simone Laurent's three-week symptom diary document alongside her joint symptoms?",
+    "back": "A malar rash across both cheeks, a prior painless oral ulcer, low-grade evening fevers never above 38.2, and unusual fatigue severe enough to leave work early twice.",
+    "id": 321
+  },
+  {
+    "chapter": 21,
+    "front": "What joint distribution and pattern did Simone's exam show, and what does this pattern suggest generally?",
+    "back": "Symmetric synovitis with swelling and warmth in the metacarpophalangeal and proximal interphalangeal joints of both hands and wrists, with morning stiffness over an hour, a pattern that suggests inflammatory arthritis but does not by itself distinguish rheumatoid arthritis from lupus.",
+    "id": 322
+  },
+  {
+    "chapter": 21,
+    "front": "Which two serologic findings, when found together, are described as a specific pattern supporting systemic lupus erythematosus?",
+    "back": "A positive anti-double-stranded DNA antibody combined with low complement levels.",
+    "id": 323
+  },
+  {
+    "chapter": 21,
+    "front": "Why is an isolated positive antinuclear antibody (ANA) insufficient to confirm a diagnosis of lupus?",
+    "back": "ANA positivity alone has lower specificity and can be positive in multiple other conditions, so it does not by itself distinguish lupus from other diagnoses.",
+    "id": 324
+  },
+  {
+    "chapter": 21,
+    "front": "Which two rheumatoid-specific serologic tests were negative in Simone's workup, and what did this negative result support?",
+    "back": "Rheumatoid factor and anti-cyclic citrullinated peptide antibody were both negative, supporting a single unifying lupus diagnosis rather than a second, coexisting rheumatoid arthritis process.",
+    "id": 325
+  },
+  {
+    "chapter": 21,
+    "front": "What finding actually resolved the question of whether Simone had one disease or two coexisting diseases?",
+    "back": "Not the joint exam, which alone could fit either disease, but the specific serologic pattern: positive anti-dsDNA with low complement supporting lupus, combined with a negative rheumatoid-specific panel arguing against a coexisting second disease.",
+    "id": 326
+  },
+  {
+    "chapter": 21,
+    "front": "Why was a urinalysis sent during Simone's workup, and what did it show?",
+    "back": "It was sent given the diagnostic possibility of lupus nephritis; it showed no proteinuria or hematuria, arguing against renal involvement at that point but warranting ongoing monitoring rather than one-time reassurance.",
+    "id": 327
+  },
+  {
+    "chapter": 21,
+    "front": "What is 'rhupus,' as defined in this chapter's Did You Know section?",
+    "back": "Rhupus is the term sometimes used for the coexistence of systemic lupus erythematosus and rheumatoid arthritis in the same patient with sufficient supporting features of both, a recognized though relatively uncommon clinical entity.",
+    "id": 328
+  },
+  {
+    "chapter": 21,
+    "front": "What treatment did Simone start for her systemic lupus erythematosus, and what was the purpose of the added short-course therapy?",
+    "back": "Hydroxychloroquine as first-line therapy, plus a short course of low-dose corticosteroids to control active joint inflammation while the hydroxychloroquine reaches full effect.",
+    "id": 329
+  },
+  {
+    "chapter": 21,
+    "front": "What clinical course did Simone have over the two months following treatment initiation?",
+    "back": "Her joint symptoms, rash, and fatigue improved substantially over the following two months.",
+    "id": 330
+  },
+  {
+    "chapter": 21,
+    "front": "According to this chapter, what risk arises from prematurely assuming a single unifying diagnosis in a patient with overlapping joint and systemic features?",
+    "back": "It risks either underestimating lupus organ involvement if the presentation is misread as rheumatoid arthritis alone, or missing a distinct erosive joint process requiring separate management if misread as lupus-associated arthritis alone when rheumatoid arthritis coexists.",
+    "id": 331
+  },
+  {
+    "chapter": 21,
+    "front": "What would a strongly positive rheumatoid factor and anti-CCP antibody alongside clear lupus-supportive serology suggest, per this chapter's teaching points?",
+    "back": "It would raise consideration for a coexisting rheumatoid arthritis process (rhupus) alongside lupus, with implications for more aggressive joint-specific management given rheumatoid arthritis's erosive potential.",
+    "id": 332
+  },
+  {
+    "chapter": 21,
+    "front": "Where did Simone's malar rash appear on exam, and what area did it spare?",
+    "back": "It appeared across both cheeks and spared the nasolabial folds.",
+    "id": 333
+  },
+  {
+    "chapter": 21,
+    "front": "What teaching point does this chapter draw about the value of a patient-kept symptom diary?",
+    "back": "A patient's own detailed symptom timeline can surface systemic features, such as rash, oral ulcers, and fever pattern, that might otherwise be missed or under-elicited in a single-visit history, and should be actively incorporated into the differential.",
+    "id": 334
+  },
+  {
+    "chapter": 21,
+    "front": "What was Simone's age and relevant family history detail noted in the case?",
+    "back": "She is 31 years old with no personal history of autoimmune disease; her mother has a longstanding, undiagnosed history of joint complaints that was never formally worked up.",
+    "id": 335
+  },
+  {
+    "chapter": 22,
+    "front": "What specific cognitive bias does Chapter 22 center on?",
+    "back": "Diagnosis momentum, a chart label becoming progressively harder to reverse as it is copied forward from clinician to clinician without reassessment.",
+    "id": 336
+  },
+  {
+    "chapter": 22,
+    "front": "How does diagnosis momentum differ from simple anchoring bias, per the chapter's Did You Know section?",
+    "back": "Anchoring occurs within a single clinical encounter, while diagnosis momentum compounds across multiple clinicians and encounters over time, with each clinician acting reasonably on the information in front of them.",
+    "id": 337
+  },
+  {
+    "chapter": 22,
+    "front": "What was the patient's name, age, and presenting symptom pattern in this chapter's case?",
+    "back": "Wendell Ashworth, 52, with episodic chest tightness lasting ten to twenty minutes, sometimes with mild dyspnea, occurring roughly twice a month.",
+    "id": 338
+  },
+  {
+    "chapter": 22,
+    "front": "What did the original urgent care note read three years before this visit, and what happened to part of it over time?",
+    "back": "It read \"anxiety disorder, r/o cardiac\"; the \"r/o cardiac\" qualifier quietly dropped out of every subsequent note while the cardiac workup it implied was never completed.",
+    "id": 339
+  },
+  {
+    "chapter": 22,
+    "front": "How many visits and clinicians carried the unverified \"anxiety\" label forward before it was reassessed?",
+    "back": "Eleven visits across four different clinicians, none of whom revisited the original reasoning behind the label.",
+    "id": 340
+  },
+  {
+    "chapter": 22,
+    "front": "What was Wendell's exam and vital signs finding at today's visit, and why did this not rule out a cardiac cause?",
+    "back": "Vitals and cardiac exam were normal, as at every prior visit, but a normal exam during an asymptomatic period does not exclude an intermittent arrhythmia.",
+    "id": 341
+  },
+  {
+    "chapter": 22,
+    "front": "Why was a single in-office electrocardiogram insufficient for Wendell's workup?",
+    "back": "His symptoms occurred too infrequently, about twice a month, to be reliably captured by a single point-in-time recording.",
+    "id": 342
+  },
+  {
+    "chapter": 22,
+    "front": "What test was arranged to correlate Wendell's symptoms with cardiac rhythm over time?",
+    "back": "An ambulatory cardiac monitor worn over an extended period to capture rhythm data during a symptomatic episode.",
+    "id": 343
+  },
+  {
+    "chapter": 22,
+    "front": "What did Wendell's ambulatory monitor capture two weeks into monitoring?",
+    "back": "An episode of supraventricular tachycardia at 168 beats per minute lasting approximately twelve minutes, coinciding with a symptomatic log entry.",
+    "id": 344
+  },
+  {
+    "chapter": 22,
+    "front": "What did the subsequent electrophysiology study reveal, and how was it treated?",
+    "back": "It confirmed an accessory pathway consistent with his supraventricular tachycardia, successfully treated with catheter ablation.",
+    "id": 345
+  },
+  {
+    "chapter": 22,
+    "front": "What was the outcome of treatment, and how did his presentation on the resolving visit compare to his very first visit three years earlier?",
+    "back": "His symptoms resolved completely after ablation; his presentation on the resolving visit was materially identical to his presentation three years earlier, showing the diagnosis, not the symptoms, had changed.",
+    "id": 346
+  },
+  {
+    "chapter": 22,
+    "front": "What reasoning discipline does the chapter recommend for reviewing an inherited chart diagnosis?",
+    "back": "Read the existing diagnosis with the same critical distance applied to a diagnosis offered by a stranger with no supporting workup, rather than presuming it correct because it has gone unchallenged.",
+    "id": 347
+  },
+  {
+    "chapter": 22,
+    "front": "According to the chapter, what should an existing chart label be treated as, rather than as a confirmed fact?",
+    "back": "A hypothesis carried forward from a prior clinician's possibly incomplete workup, requiring active reassessment rather than automatic acceptance.",
+    "id": 348
+  },
+  {
+    "chapter": 22,
+    "front": "What finding actually changed Wendell's clinical course, according to the Case Resolution section?",
+    "back": "Not a new symptom, since his presentation was materially identical to his first visit, but a clinician's decision to disregard the accumulated chart label and complete the originally implied but never-performed cardiac workup.",
+    "id": 349
+  },
+  {
+    "chapter": 22,
+    "front": "What risk did the chapter say Wendell faced had the visit proceeded like the prior eleven, simply adjusting anti-anxiety medication again?",
+    "back": "His arrhythmia would have continued undiagnosed indefinitely, carrying the cumulative risk of an unrecognized recurrent tachyarrhythmia over years rather than months.",
+    "id": 350
+  },
+  {
+    "chapter": 23,
+    "front": "What is a framing effect in the context of a clinical referral?",
+    "back": "A framing effect occurs when the way information is presented by a referring clinician, triage note, or the patient's prior framing anchors the receiving clinician's differential before independent evaluation occurs.",
+    "id": 351
+  },
+  {
+    "chapter": 23,
+    "front": "What did the referral fax say about Priya Devgan, and how old was she?",
+    "back": "The referral, signed by a primary care physician who had seen her once briefly three weeks earlier, read: '28F, rule out anxiety, recurrent episodes of palpitations and dizziness, likely stress-related given recent job change, referred for management.'",
+    "id": 352
+  },
+  {
+    "chapter": 23,
+    "front": "How long did Priya's episodes last and how frequent were they?",
+    "back": "Her episodes lasted ten to fifteen minutes, occurring several times over the past month, with racing heartbeat, lightheadedness, and on two occasions breathlessness severe enough to require sitting down.",
+    "id": 353
+  },
+  {
+    "chapter": 23,
+    "front": "What detail in Priya's own account most directly contradicted the anxiety framing?",
+    "back": "One episode occurred while she was sitting calmly at home watching television, unrelated to any stressor, and she described her new job as a promotion she was happy about, not a source of dread.",
+    "id": 354
+  },
+  {
+    "chapter": 23,
+    "front": "What were the results of Priya's initial EKG and cardiac/neurologic exam?",
+    "back": "Both were unremarkable, though the chapter notes this does not exclude an intermittent arrhythmia since she was asymptomatic at the time of testing.",
+    "id": 355
+  },
+  {
+    "chapter": 23,
+    "front": "What thyroid function test results were obtained for Priya?",
+    "back": "A suppressed thyroid-stimulating hormone (TSH) with an elevated free thyroxine (T4), consistent with hyperthyroidism.",
+    "id": 356
+  },
+  {
+    "chapter": 23,
+    "front": "What did Priya's ambulatory cardiac monitor capture over two weeks?",
+    "back": "One symptomatic episode correlating with sinus tachycardia at 128 beats per minute, without evidence of a primary arrhythmia such as supraventricular tachycardia.",
+    "id": 357
+  },
+  {
+    "chapter": 23,
+    "front": "What was Priya's final confirmed diagnosis and how was it confirmed?",
+    "back": "Graves' disease, confirmed by further antibody testing, treated with thionamide therapy plus beta-blockade for symptom control while definitive treatment was arranged.",
+    "id": 358
+  },
+  {
+    "chapter": 23,
+    "front": "What medication was never started in Priya's case, despite the original referral framing?",
+    "back": "An anxiolytic medication was never started; her symptoms resolved as her thyroid hormone levels normalized with thionamide and beta-blockade.",
+    "id": 359
+  },
+  {
+    "chapter": 23,
+    "front": "According to the chapter, why is 'stress from a new job' a particularly effective anchor for a framing effect?",
+    "back": "It is a plausible, socially unremarkable explanation that requires no further workup to accept at face value, making it easy for a receiving clinician to adopt without independent verification.",
+    "id": 360
+  },
+  {
+    "chapter": 23,
+    "front": "What is the key habit the chapter asks readers to build regarding referral reasons for visit?",
+    "back": "Treat a referral's stated reason for visit as one clinician's hypothesis to be independently tested, not as an established fact to be managed.",
+    "id": 361
+  },
+  {
+    "chapter": 23,
+    "front": "What symptom overlap made hyperthyroidism a reasonable alternative to anxiety in Priya's case?",
+    "back": "Palpitations, dizziness, and dyspnea overlap significantly between anxiety and organic causes including hyperthyroidism and cardiac arrhythmias, so symptoms not correlating with a presumed stressor should prompt evaluation for an organic cause.",
+    "id": 362
+  },
+  {
+    "chapter": 23,
+    "front": "What did referral handoff studies find about a receiving clinician's differential when a referral arrives with a specific diagnostic label attached?",
+    "back": "The differential is measurably narrower and slower to expand compared to an identical clinical presentation referred without that label.",
+    "id": 363
+  },
+  {
+    "chapter": 23,
+    "front": "What structural practice have some institutions adopted to counteract framing effects in referrals?",
+    "back": "Structured referral templates that separate objective findings from the referring clinician's interpretive impression, specifically to reduce the anchoring effect on the receiving clinician.",
+    "id": 364
+  },
+  {
+    "chapter": 23,
+    "front": "What is the chapter careful to clarify that its teaching point is NOT arguing?",
+    "back": "It is not arguing that anxiety disorders are rare or that stress-related symptoms should be dismissed reflexively, only that a diagnosis carried forward from a referral requires the same independent verification as any other working diagnosis.",
+    "id": 365
+  },
+  {
+    "chapter": 24,
+    "front": "What specific cognitive bias is the focus of Felix Amankwah's case?",
+    "back": "Premature closure: ending the diagnostic process once a plausible, confirmed explanation is found, without continuing to evaluate whether every symptom is actually explained by it.",
+    "id": 366
+  },
+  {
+    "chapter": 24,
+    "front": "How does this chapter's version of premature closure differ from the way it is often described in the abstract?",
+    "back": "Instead of accepting an incomplete or wrong explanation, this case shows accepting a completely correct diagnosis and then failing to re-evaluate symptoms that diagnosis does not fully explain.",
+    "id": 367
+  },
+  {
+    "chapter": 24,
+    "front": "What was Felix's original, correctly diagnosed and treated condition?",
+    "back": "A culture-confirmed urinary tract infection with dysuria, urinary frequency, and suprapubic discomfort, treated with an antibiotic to which the cultured uropathogen was sensitive.",
+    "id": 368
+  },
+  {
+    "chapter": 24,
+    "front": "What two new or persistent symptoms brought Felix back at follow-up, ten days after treatment?",
+    "back": "A low-grade suprapubic ache that never fully resolved, and new gross (visible pink) hematuria over the prior three days.",
+    "id": 369
+  },
+  {
+    "chapter": 24,
+    "front": "What key risk factors made Felix's gross hematuria concerning for malignancy rather than residual infection?",
+    "back": "He is 64 years old with a 30-pack-year smoking history, a risk profile that independently warrants hematuria evaluation regardless of a recent urinary tract infection.",
+    "id": 370
+  },
+  {
+    "chapter": 24,
+    "front": "What two diagnostic studies were ordered to evaluate Felix's new hematuria?",
+    "back": "Cystoscopy and cross-sectional imaging of the urinary tract, the standard evaluation for hematuria in a patient with his risk profile.",
+    "id": 371
+  },
+  {
+    "chapter": 24,
+    "front": "What did cystoscopy and biopsy reveal in Felix's case?",
+    "back": "A papillary lesion on the bladder wall, with biopsy pathology consistent with low-grade urothelial carcinoma.",
+    "id": 372
+  },
+  {
+    "chapter": 24,
+    "front": "How was Felix's bladder tumor treated, and what was his prognosis?",
+    "back": "Transurethral resection of the tumor followed by a surveillance and intravesical therapy protocol; favorable prognosis given the low-grade, non-invasive, early-stage pathology.",
+    "id": 373
+  },
+  {
+    "chapter": 24,
+    "front": "Did Felix's original urinary tract infection require any further treatment after his bladder cancer was found?",
+    "back": "No; it had been appropriately and successfully resolved by the initial antibiotic course and required no additional treatment.",
+    "id": 374
+  },
+  {
+    "chapter": 24,
+    "front": "What key distinction should clinicians make to avoid premature closure when a patient returns with symptoms after a confirmed diagnosis?",
+    "back": "Distinguish symptoms expected to resolve with treatment of the confirmed diagnosis from symptoms that persist beyond the expected timeline or newly appear, which should prompt evaluation for a second process.",
+    "id": 375
+  },
+  {
+    "chapter": 24,
+    "front": "What was the practical habit that changed Felix's trajectory and led to his cancer diagnosis?",
+    "back": "Treating his new, persistent follow-up symptoms as new data requiring their own evaluation, rather than as an expected, prolonged tail of an already-solved urinary tract infection.",
+    "id": 376
+  },
+  {
+    "chapter": 24,
+    "front": "What would likely have happened if Felix's hematuria had been reflexively attributed to a 'urinary tract infection still resolving'?",
+    "back": "His bladder malignancy would likely have been identified later, at a less favorable stage.",
+    "id": 377
+  },
+  {
+    "chapter": 24,
+    "front": "How does diagnostic error literature, as cited in this chapter, distinguish premature closure from simply reaching a wrong diagnosis?",
+    "back": "Premature closure frequently involves reaching a correct diagnosis for part of the presentation and then failing to continue evaluating symptoms that diagnosis does not fully explain.",
+    "id": 378
+  },
+  {
+    "chapter": 24,
+    "front": "If a follow-up evaluation for a suspected alternative diagnosis returns negative, what should a clinician avoid concluding?",
+    "back": "Avoid concluding that no further disease process exists; a negative evaluation lowers likelihood but does not exclude every other possible cause of persistent symptoms.",
+    "id": 379
+  },
+  {
+    "chapter": 24,
+    "front": "Why does gross hematuria warrant evaluation for malignancy even when a patient has a recently treated urinary tract infection?",
+    "back": "A coexisting or recently treated urinary tract infection does not exclude a second, separate process, especially in a patient with independent risk factors such as significant smoking history and older age.",
+    "id": 380
+  },
+  {
+    "chapter": 25,
+    "front": "How old was Gerald Whitfield, and what was his presenting complaint at his first visit?",
+    "back": "Gerald was 66 years old, presenting with intermittent abdominal bloating and early satiety, attributed to functional dyspepsia.",
+    "id": 381
+  },
+  {
+    "chapter": 25,
+    "front": "What tests were ordered at Gerald's first two visits, and what did they show?",
+    "back": "A basic metabolic panel and lipase were ordered at both visits, and both were unremarkable each time.",
+    "id": 382
+  },
+  {
+    "chapter": 25,
+    "front": "Define confirmation bias as this chapter describes it.",
+    "back": "Ordering and weighting evidence that supports the leading diagnosis while not seeking out tests that would most directly challenge or refute it, often without conscious awareness that the search has become one-directional.",
+    "id": 383
+  },
+  {
+    "chapter": 25,
+    "front": "What new finding prompted the third visit's abdominal CT?",
+    "back": "Gerald had lost a noticeable amount of weight by his third visit, prompting a new resident to order the CT after actively questioning whether something had been missed.",
+    "id": 384
+  },
+  {
+    "chapter": 25,
+    "front": "What did Gerald's abdominal CT and subsequent biopsy reveal?",
+    "back": "The CT showed a mass at the gastroesophageal junction with regional lymphadenopathy, and endoscopy with biopsy confirmed gastric adenocarcinoma.",
+    "id": 385
+  },
+  {
+    "chapter": 25,
+    "front": "What self-audit question does this chapter propose as a safeguard against confirmation bias?",
+    "back": "Before finalizing a plan, ask not only whether a test supports the leading diagnosis, but what test would most directly challenge it, and whether that test has actually been ordered.",
+    "id": 386
+  },
+  {
+    "chapter": 25,
+    "front": "Why is confirmation bias hard to catch in real time, according to this chapter?",
+    "back": "Each individual visit, viewed in isolation, involves defensible test selection for the diagnosis under consideration at that moment; the bias becomes visible only when the pattern across multiple visits is examined together.",
+    "id": 387
+  },
+  {
+    "chapter": 25,
+    "front": "What two tests does the chapter say could have refuted Gerald's working diagnosis but were never ordered?",
+    "back": "Cross-sectional abdominal imaging capable of identifying a mass, and a complete blood count sensitive enough to reveal unexplained anemia consistent with occult malignancy.",
+    "id": 388
+  },
+  {
+    "chapter": 25,
+    "front": "What treatment sequence did Gerald undergo for his gastric adenocarcinoma?",
+    "back": "Neoadjuvant chemotherapy followed by surgical resection, informed by staging from his eventually complete workup.",
+    "id": 389
+  },
+  {
+    "chapter": 25,
+    "front": "What structural countermeasure have some health systems implemented against this bias pattern?",
+    "back": "Structured prompts at a second or third visit for the same unresolved complaint, asking the clinician to document what alternative diagnosis has been actively considered and tested for.",
+    "id": 390
+  },
+  {
+    "chapter": 25,
+    "front": "Was the initial diagnosis of functional dyspepsia at Gerald's first visit itself a reasoning error?",
+    "back": "No; the chapter states functional dyspepsia was a reasonable initial impression at the first visit alone, and Book One's framework would not fault that single initial diagnosis.",
+    "id": 391
+  },
+  {
+    "chapter": 25,
+    "front": "How many days elapsed between Gerald's second and third visits?",
+    "back": "Five days elapsed between his second visit and his third visit, when the CT was finally ordered.",
+    "id": 392
+  },
+  {
+    "chapter": 25,
+    "front": "What was Gerald discharged with after his first visit?",
+    "back": "He was discharged with a proton pump inhibitor for presumed functional dyspepsia.",
+    "id": 393
+  },
+  {
+    "chapter": 25,
+    "front": "What would be the appropriate next step if Gerald's third-visit CT had been negative despite his weight loss?",
+    "back": "Continue pursuing tests capable of identifying alternative causes of his weight loss and worsening symptoms, rather than defaulting back to the original working diagnosis.",
+    "id": 394
+  },
+  {
+    "chapter": 25,
+    "front": "Why did the chart review that surfaced this pattern only happen months later rather than in real time?",
+    "back": "The pattern across visits, tests that could only confirm and never refute the leading diagnosis, was only visible when the three visits were read in sequence together, which is how a retrospective quality review works but not how real-time, one-visit-at-a-time care unfolds.",
+    "id": 395
+  },
+  {
+    "chapter": 26,
+    "front": "How many prior episodes of back pain did Dolores Marsh have before her third visit, and what was each diagnosed as?",
+    "back": "Two prior episodes, at age 61 and again at age 65, both diagnosed as lumbar radiculopathy and both resolved with physical therapy and a short course of anti-inflammatory medication.",
+    "id": 396
+  },
+  {
+    "chapter": 26,
+    "front": "Define script drift as this chapter describes it.",
+    "back": "A previously accurate illness script that fails to update quickly enough to register new features in a current presentation that fall outside the original script, without requiring an incorrect diagnosis being carried forward.",
+    "id": 397
+  },
+  {
+    "chapter": 26,
+    "front": "What new symptoms did Dolores report only when specifically asked what felt different this third time?",
+    "back": "New difficulty controlling her bladder over the prior ten days, a sense of not fully emptying, and a vague numbness in her inner thighs.",
+    "id": 398
+  },
+  {
+    "chapter": 26,
+    "front": "What red-flag symptom combination does Book One's back pain chapter identify as concerning for cauda equina syndrome?",
+    "back": "New bladder or bowel dysfunction and perineal or saddle sensory change accompanying back pain.",
+    "id": 399
+  },
+  {
+    "chapter": 26,
+    "front": "What did the emergent MRI reveal in Dolores's case, and how did it differ from her prior two episodes?",
+    "back": "A large central disc herniation causing significant cauda equina compression, fundamentally different from the more typical, laterally-positioned disc herniation of her prior two episodes.",
+    "id": 400
+  },
+  {
+    "chapter": 26,
+    "front": "How is script drift distinct from anchoring and diagnosis momentum, per this chapter?",
+    "back": "Script drift does not require an incorrect diagnosis being carried forward; Dolores's back pain diagnosis was correct on both prior occasions, but the template failed to update to register new symptoms outside its original scope.",
+    "id": 401
+  },
+  {
+    "chapter": 26,
+    "front": "What specific question surfaced the red-flag findings that would otherwise have gone unmentioned?",
+    "back": "The physician asked Dolores specifically what felt different about this episode compared to the prior two, which she did not consider significant enough to volunteer without being asked directly.",
+    "id": 402
+  },
+  {
+    "chapter": 26,
+    "front": "What treatment did Dolores undergo once cauda equina syndrome was confirmed?",
+    "back": "Emergent surgical decompression, given the severity of compression and the risk of permanent bladder and sensory dysfunction with further delay.",
+    "id": 403
+  },
+  {
+    "chapter": 26,
+    "front": "What did Dolores's treating team counsel her about her recovery after surgery?",
+    "back": "Her bladder function improved significantly after surgery, but some sensory change might take longer to resolve or could be permanent, depending on the duration of compression before surgery.",
+    "id": 404
+  },
+  {
+    "chapter": 26,
+    "front": "Why is cauda equina syndrome considered a true time-sensitive surgical emergency?",
+    "back": "The window between symptom onset and surgical decompression is directly correlated with the likelihood of recovering bladder, bowel, and sensory function.",
+    "id": 405
+  },
+  {
+    "chapter": 26,
+    "front": "What is the specific habit this chapter recommends to protect against script drift?",
+    "back": "Actively re-eliciting the full symptom set at each recurrence of a familiar complaint, rather than confirming only the features that match the established pattern.",
+    "id": 406
+  },
+  {
+    "chapter": 26,
+    "front": "What would it mean if Dolores's MRI had shown only her prior lateral herniation pattern, with her new bladder and sensory symptoms unexplained?",
+    "back": "Those symptoms should still prompt continued evaluation for an alternative cause, since a reassuring finding on one test does not account for symptoms that test was not designed to explain.",
+    "id": 407
+  },
+  {
+    "chapter": 26,
+    "front": "How many years apart were Dolores's first and second, and second and third, back pain episodes?",
+    "back": "Four years between the first and second episodes, and two years between the second and third episodes.",
+    "id": 408
+  },
+  {
+    "chapter": 26,
+    "front": "Did the physician at Dolores's second visit have access to her first visit's chart?",
+    "back": "The second physician was not aware of the prior episode, though it could have been found, since it was a different physician than the first visit.",
+    "id": 409
+  },
+  {
+    "chapter": 26,
+    "front": "What does the chapter say about a diagnosis with a genuine track record of being correct for a specific patient?",
+    "back": "It still requires active re-verification at each new presentation, since illness scripts do not automatically update to include new symptoms outside their original pattern.",
+    "id": 410
+  },
+  {
+    "chapter": 27,
+    "front": "What happened two weeks before this physician saw Nadia Farrow?",
+    "back": "The same physician had missed a case of temporal arteritis in an older woman with headache and jaw pain, who was sent home twice before a diagnosis was reached, after some vision loss had already occurred.",
+    "id": 411
+  },
+  {
+    "chapter": 27,
+    "front": "Define availability bias as this chapter describes it.",
+    "back": "Inflated perceived likelihood of a diagnosis because it was recently seen, missed, or discussed, independent of its actual base rate or its actual fit to the current patient's findings.",
+    "id": 412
+  },
+  {
+    "chapter": 27,
+    "front": "What was Nadia's presenting complaint, and what was the physician's immediate first instinct?",
+    "back": "A two-week history of headache, scalp tenderness, and jaw discomfort with chewing; the physician's immediate instinct was temporal arteritis, before any other possibility had been considered.",
+    "id": 413
+  },
+  {
+    "chapter": 27,
+    "front": "What specific detail about Nadia's jaw pain did not fit the typical temporal arteritis pattern?",
+    "back": "Her jaw discomfort was worse chewing specifically on the right side and correlated temporally with a new dental filling placed there three weeks earlier, unlike the diffuse, bilateral pattern more typical of temporal arteritis.",
+    "id": 414
+  },
+  {
+    "chapter": 27,
+    "front": "What did Nadia's inflammatory marker panel show?",
+    "back": "It returned within normal limits.",
+    "id": 415
+  },
+  {
+    "chapter": 27,
+    "front": "What did the temporomandibular joint exam and dental referral reveal?",
+    "back": "Tenderness with palpation over the joint and pain with lateral jaw movement, with the dental referral confirming her new filling had created a bite misalignment producing localized muscular strain.",
+    "id": 416
+  },
+  {
+    "chapter": 27,
+    "front": "Is the bias in this case the act of considering temporal arteritis at all?",
+    "back": "No; the chapter states considering temporal arteritis remains reasonable and appropriately serious. The bias is allowing the recent miss to compress the differential prematurely before Nadia's own specific findings were fully weighed.",
+    "id": 417
+  },
+  {
+    "chapter": 27,
+    "front": "What practical countermeasure to availability bias does this chapter recommend?",
+    "back": "Explicitly naming, to oneself, when a differential is being unusually shaped by a recent case rather than the patient currently in front of you, and using that as a prompt to re-derive the differential from the current patient's actual findings.",
+    "id": 418
+  },
+  {
+    "chapter": 27,
+    "front": "What was Nadia's final treatment, and what did she avoid as a result?",
+    "back": "She was referred for dental bite adjustment with a soft diet and jaw rest, avoiding an unnecessary temporal artery biopsy and corticosteroid therapy.",
+    "id": 419
+  },
+  {
+    "chapter": 27,
+    "front": "Does a recent diagnostic miss mean a clinician should ignore that diagnosis in future patients?",
+    "back": "No; a lower threshold for considering the diagnosis going forward is reasonable calibration. The error is letting that recent experience substitute for weighing the current patient's actual findings.",
+    "id": 420
+  },
+  {
+    "chapter": 27,
+    "front": "According to the Did You Know section, how does the effect of a recent miss on diagnostic consideration change over time?",
+    "back": "It measurably fades over subsequent weeks to months following the initial miss.",
+    "id": 421
+  },
+  {
+    "chapter": 27,
+    "front": "What would a significantly elevated inflammatory marker have meant for Nadia's case?",
+    "back": "It would have warranted reconsideration of temporal arteritis or another systemic inflammatory process, despite her localized, dentally-correlated symptom pattern.",
+    "id": 422
+  },
+  {
+    "chapter": 27,
+    "front": "What did the physician notice about her own reaction that helped catch the bias?",
+    "back": "She noticed how quickly and how narrowly she had jumped to one diagnosis, and used that noticing as a signal to slow down and ask what Nadia's specific findings actually supported.",
+    "id": 423
+  },
+  {
+    "chapter": 27,
+    "front": "What is overcorrection in the context of availability bias, and why is it also an error?",
+    "back": "Avoiding consideration of a diagnosis entirely following a recent miss is an overcorrection, and the chapter identifies this as itself an error distinct from, but related to, availability bias.",
+    "id": 424
+  },
+  {
+    "chapter": 27,
+    "front": "How old is Nadia Farrow, and what systemic symptoms did she notably lack?",
+    "back": "Nadia is 58, and she had no vision changes, no fever, and no proximal muscle or joint stiffness suggestive of polymyalgia rheumatica.",
+    "id": 425
+  },
+  {
+    "chapter": 28,
+    "front": "What was Vincent Odom admitted for, and what three comorbidities does he have?",
+    "back": "He was admitted for a presumed COPD exacerbation, and has COPD, longstanding poorly controlled type 2 diabetes, and atrial fibrillation on anticoagulation.",
+    "id": 426
+  },
+  {
+    "chapter": 28,
+    "front": "What were Vincent's vital signs during his acute deterioration one hour into his admission?",
+    "back": "Heart rate 128 and irregularly irregular, blood pressure 84 over 52 (down from 118 over 70 on admission), respiratory rate 32, and oxygen saturation 86 percent despite escalating supplemental oxygen.",
+    "id": 427
+  },
+  {
+    "chapter": 28,
+    "front": "What new exam finding, absent on admission, was found on reassessment of Vincent's abdomen?",
+    "back": "A distended, diffusely tender abdomen with new guarding that was not documented, or perhaps not present, twenty-four hours earlier.",
+    "id": 428
+  },
+  {
+    "chapter": 28,
+    "front": "What is the anchoring risk this chapter identifies in Vincent's case?",
+    "back": "Treating his entire deterioration as the COPD getting worse, the already-established and already-treated diagnosis, rather than recognizing that a new organ system, his abdomen, had become symptomatic.",
+    "id": 429
+  },
+  {
+    "chapter": 28,
+    "front": "What did Vincent's stat lactate and emergent abdominal CT reveal?",
+    "back": "Lactate significantly elevated at 6.2, and CT showing a segment of bowel with diminished enhancement and pneumatosis, consistent with acute mesenteric ischemia.",
+    "id": 430
+  },
+  {
+    "chapter": 28,
+    "front": "What did Vincent's anticoagulation levels show, and why is this significant?",
+    "back": "His level had drifted below the therapeutic range over the preceding days, providing a plausible embolic source for his mesenteric ischemia given his atrial fibrillation.",
+    "id": 431
+  },
+  {
+    "chapter": 28,
+    "front": "What third process, besides mesenteric ischemia and COPD, was identified on reassessment of Vincent's respiratory status?",
+    "back": "A new, superimposed infiltrate on chest radiograph not present on admission, raising likely aspiration-related pneumonia given his new confusion and abdominal process.",
+    "id": 432
+  },
+  {
+    "chapter": 28,
+    "front": "Of Vincent's three concurrently active processes, which was prioritized for the most immediate intervention, and why?",
+    "back": "Mesenteric ischemia, because it represents the most immediately life-threatening process and requires intervention, emergent surgical evaluation, that cannot be delayed pending resolution of the others.",
+    "id": 433
+  },
+  {
+    "chapter": 28,
+    "front": "What capstone reasoning skill does this chapter demonstrate, combining tools from earlier chapters?",
+    "back": "Combining the classic-versus-atypical distinction, coexisting-diagnosis sequencing, and active bias-checking from earlier chapters, applied simultaneously rather than one at a time.",
+    "id": 434
+  },
+  {
+    "chapter": 28,
+    "front": "What did Vincent's emergent exploratory surgery confirm, and what procedure was performed?",
+    "back": "A segment of nonviable bowel from the mesenteric ischemia, resected with primary anastomosis given the extent and location of the affected segment.",
+    "id": 435
+  },
+  {
+    "chapter": 28,
+    "front": "How were Vincent's respiratory and infectious processes managed relative to his surgical evaluation?",
+    "back": "Broad-spectrum antibiotics covering both the pulmonary infiltrate and the intra-abdominal source were started, and respiratory support was escalated, concurrently with the surgical evaluation rather than delayed.",
+    "id": 436
+  },
+  {
+    "chapter": 28,
+    "front": "What does this chapter say a patient's admitting diagnosis does not protect against?",
+    "back": "An entirely new, unrelated process developing during the same hospitalization; the admitting diagnosis being correctly identified and appropriately treated does not prevent, and can even obscure, a new process.",
+    "id": 437
+  },
+  {
+    "chapter": 28,
+    "front": "Why does acute mesenteric ischemia carry especially high mortality risk in hospitalized patients, per the Did You Know section?",
+    "back": "Its early presentation, pain out of proportion to exam findings before frank bowel necrosis develops, is easily overshadowed or overlooked in a patient already hospitalized and being actively treated for an unrelated diagnosis.",
+    "id": 438
+  },
+  {
+    "chapter": 28,
+    "front": "What finding does the chapter say actually changed Vincent's trajectory?",
+    "back": "Not a single lab value or imaging result in isolation, but the decision to perform a complete reassessment, including a fresh abdominal exam, once his overall status changed, rather than attributing his deterioration entirely to his known COPD exacerbation.",
+    "id": 439
+  },
+  {
+    "chapter": 28,
+    "front": "How should new findings in an organ system not involved in the original presenting complaint be evaluated, per this chapter's teaching point?",
+    "back": "As a potential independent process requiring its own workup, rather than folded into the existing, already-being-treated diagnosis by default.",
+    "id": 440
+  },
+  {
+    "chapter": 29,
+    "front": "Who is the patient in this capstone chapter, and what was his age and admitting diagnosis?",
+    "back": "Ephraim Solano, 66, admitted for what was thought to be a routine flare of chronic pancreatitis with mild epigastric discomfort and a mildly elevated lipase.",
+    "id": 441
+  },
+  {
+    "chapter": 29,
+    "front": "What were Ephraim's vital signs at the time of the rapid response, six hours after admission?",
+    "back": "Blood pressure 82/54, heart rate 128, and respiratory rate 28, with pale, diaphoretic appearance and tearing pain radiating to his back.",
+    "id": 442
+  },
+  {
+    "chapter": 29,
+    "front": "What did the admitting hospitalist's note say, and how did it contrast with the overnight rapid response note six hours later?",
+    "back": "The admitting note described the patient as comfortable with stable vitals; the rapid response note six hours later described him as diaphoretic, tachypneic, with severe pain and a systolic blood pressure in the 80s.",
+    "id": 443
+  },
+  {
+    "chapter": 29,
+    "front": "What data source reconciled the apparent contradiction between the two chart notes?",
+    "back": "The nursing flowsheet vitals, which showed a slow, progressive rise in heart rate and fall in blood pressure across the full six-hour interval rather than a sudden change.",
+    "id": 444
+  },
+  {
+    "chapter": 29,
+    "front": "What specific change in Ephraim's pain should have prompted reconsideration of his admitting diagnosis?",
+    "back": "A shift from dull epigastric discomfort to tearing pain radiating to the back, a qualitative change in character and location rather than simply worsening severity.",
+    "id": 445
+  },
+  {
+    "chapter": 29,
+    "front": "What diagnosis was ultimately identified as the cause of Ephraim's deterioration?",
+    "back": "A large abdominal aortic aneurysm with findings concerning for rupture, including free fluid in the abdomen, found on emergent bedside ultrasound.",
+    "id": 446
+  },
+  {
+    "chapter": 29,
+    "front": "Why was a bedside ultrasound chosen over a full CT protocol in this case?",
+    "back": "His hemodynamic instability made a rapid bedside study more appropriate, since a full CT protocol would delay definitive intervention his status could not safely wait for.",
+    "id": 447
+  },
+  {
+    "chapter": 29,
+    "front": "What was the immediate management step once the ruptured aneurysm was identified?",
+    "back": "Vascular surgery was emergently notified and Ephraim was taken directly for surgical repair rather than pursuing further imaging.",
+    "id": 448
+  },
+  {
+    "chapter": 29,
+    "front": "What was the eventual relationship between Ephraim's pancreatitis and his aortic rupture?",
+    "back": "They were unrelated, coincidentally timed processes; the pancreatitis resolved with supportive care managed concurrently with his aneurysm repair.",
+    "id": 449
+  },
+  {
+    "chapter": 29,
+    "front": "What is the classic triad associated with ruptured or leaking abdominal aortic aneurysm?",
+    "back": "Abdominal or back pain, hypotension, and a pulsatile abdominal mass.",
+    "id": 450
+  },
+  {
+    "chapter": 29,
+    "front": "How often is the complete classic triad for ruptured AAA present at the time of presentation?",
+    "back": "Only in a minority of confirmed cases, which is why suspicion should remain even when the full triad is absent, especially in older patients with severe pain and instability.",
+    "id": 451
+  },
+  {
+    "chapter": 29,
+    "front": "What is the core analytical habit this chapter teaches for reconciling contradictory chart notes?",
+    "back": "Examine the continuous data connecting the two time points, such as vital sign trends, intake and output, and repeated exam findings, rather than trusting one note over the other or assuming a documentation error.",
+    "id": 452
+  },
+  {
+    "chapter": 29,
+    "front": "Why should a patient's admitting diagnosis be actively reconsidered when new, uncharacteristic findings emerge?",
+    "back": "Because interpreting new findings only through the lens of the existing diagnosis risks missing an entirely separate, more dangerous process, as happened with Ephraim's pancreatitis diagnosis obscuring his aneurysm.",
+    "id": 453
+  },
+  {
+    "chapter": 29,
+    "front": "What was the risk if Ephraim's rapid response had been managed as pancreatitis worsening alone, without examining the trend?",
+    "back": "His ruptured aneurysm could have gone unrecognized long enough that definitive surgical repair would no longer have been possible.",
+    "id": 454
+  },
+  {
+    "chapter": 29,
+    "front": "What made Ephraim's case a poor fit for his original pancreatitis workup pathway?",
+    "back": "A pancreatitis flare does not adequately explain new tearing back pain with severe hemodynamic compromise, and his admitting workup would never have screened for an aortic aneurysm.",
+    "id": 455
+  },
+  {
+    "chapter": 30,
+    "front": "Who is the patient in this capstone chapter, and what was his admission reason?",
+    "back": "Emmanuel Osei, 74, admitted five days earlier for a moderate exacerbation of heart failure, now clinically ready for discharge after responding well to diuresis.",
+    "id": 456
+  },
+  {
+    "chapter": 30,
+    "front": "What clinical markers indicated Emmanuel was medically ready for discharge?",
+    "back": "His weight was back near documented dry weight, labs were stable, and his exam showed resolved lower extremity edema and clear lungs.",
+    "id": 457
+  },
+  {
+    "chapter": 30,
+    "front": "What social circumstances complicated Emmanuel's otherwise straightforward discharge?",
+    "back": "He lives alone in a third-floor walk-up with no elevator, has no family nearby, recently lost his wife eight months earlier, and had missed two of his last three cardiology follow-up appointments.",
+    "id": 458
+  },
+  {
+    "chapter": 30,
+    "front": "What did a detailed conversation reveal about the cause of Emmanuel's inconsistent medication adherence?",
+    "back": "His wife had managed his pillbox for years, and he had not reorganized it since her death, reflecting genuine uncertainty rather than simple forgetfulness or unreliability.",
+    "id": 459
+  },
+  {
+    "chapter": 30,
+    "front": "What did physical therapy find regarding Emmanuel's stair-climbing ability?",
+    "back": "He could climb stairs safely during the evaluation but with noticeably more fatigue than expected for his age, raising concern about reliably doing so multiple times daily.",
+    "id": 460
+  },
+  {
+    "chapter": 30,
+    "front": "What four interventions did the team arrange before Emmanuel's discharge?",
+    "back": "A home health nursing visit within 48 hours for medication organization, a bereavement support group referral, a scheduled cardiology follow-up with a reminder call, and a temporary stair-climbing assistive device with home safety evaluation.",
+    "id": 461
+  },
+  {
+    "chapter": 30,
+    "front": "How does this chapter differ from the diagnostic reasoning of earlier chapters in the book?",
+    "back": "There is no missed diagnosis and no test that resolves the case; the tension is a disposition decision under uncertainty about social and functional factors, not a clinical unknown.",
+    "id": 462
+  },
+  {
+    "chapter": 30,
+    "front": "What framework from Book One does this chapter apply to discharge planning?",
+    "back": "The algorithm deviation framework: an algorithm calibrated for patients with reliable follow-up, transportation, and social support is not safely transferable, unmodified, to a patient who lacks those resources.",
+    "id": 463
+  },
+  {
+    "chapter": 30,
+    "front": "What is the risk of a discharge plan built purely on meeting clinical criteria, according to this chapter?",
+    "back": "It can still represent a functionally unsafe plan if specific, identifiable barriers to successful outpatient management are not addressed before the patient leaves the hospital.",
+    "id": 464
+  },
+  {
+    "chapter": 30,
+    "front": "What two extremes does the chapter identify as inappropriate responses to Emmanuel's situation?",
+    "back": "Discharging purely on criteria while ignoring real readmission risk, and keeping him hospitalized indefinitely until every social factor is perfect.",
+    "id": 465
+  },
+  {
+    "chapter": 30,
+    "front": "How predictive are social determinants of health, such as isolation and bereavement, of early hospital readmission according to this chapter?",
+    "back": "They are increasingly recognized in readmission-risk research as comparably predictive of early readmission as several purely clinical variables.",
+    "id": 466
+  },
+  {
+    "chapter": 30,
+    "front": "What specific questioning approach does the chapter recommend for assessing a patient's social and functional context?",
+    "back": "Ask specific questions, such as who will help organize medications and whether the patient can physically and reliably manage his living situation, rather than generally asking if support exists at home.",
+    "id": 467
+  },
+  {
+    "chapter": 30,
+    "front": "What was Emmanuel's daughter's stated situation regarding his care?",
+    "back": "She lives out of state and reported she was worried but not able to fly in right now.",
+    "id": 468
+  },
+  {
+    "chapter": 30,
+    "front": "What would have happened if Emmanuel's discharge proceeded on clinical criteria alone, without addressing his specific barriers?",
+    "back": "His risk of early readmission for a preventable, self-management-related recurrence would have remained considerably higher than after the specific barriers were identified and addressed.",
+    "id": 469
+  },
+  {
+    "chapter": 30,
+    "front": "What finding actually changed Emmanuel's discharge plan, since no new clinical finding emerged?",
+    "back": "The decision to apply the same specific, active investigation used for clinical differentials to his social and functional context, rather than accepting a generic discharge plan.",
+    "id": 470
+  },
+  {
+    "chapter": 31,
+    "front": "Who is the patient in this capstone chapter, and what was her presenting complaint?",
+    "back": "Beatrix Halloran, 52, admitted three days earlier for progressive exertional dyspnea, dry cough, intermittent low-grade fevers, and a tender shin rash.",
+    "id": 471
+  },
+  {
+    "chapter": 31,
+    "front": "What three findings together formed a classic presentation for sarcoidosis in Beatrix's case?",
+    "back": "Bilateral hilar lymphadenopathy, erythema nodosum on her shins, and intermittent low-grade fevers.",
+    "id": 472
+  },
+  {
+    "chapter": 31,
+    "front": "What atypical finding on Beatrix's chest CT did not fit the typical sarcoidosis pattern?",
+    "back": "Upper-lobe-predominant fibrotic changes, distinct from the more typical perilymphatic nodular pattern sarcoidosis alone would be expected to produce.",
+    "id": 473
+  },
+  {
+    "chapter": 31,
+    "front": "What occupational exposure did further history reveal once the atypical CT pattern was investigated?",
+    "back": "She had worked for over a decade in a job with significant occupational dust exposure, which had not been asked about during her initial history.",
+    "id": 474
+  },
+  {
+    "chapter": 31,
+    "front": "What two tests confirmed Beatrix's active sarcoidosis diagnosis?",
+    "back": "An elevated angiotensin-converting enzyme level and a bronchoscopic lymph node biopsy showing non-caseating granulomas.",
+    "id": 475
+  },
+  {
+    "chapter": 31,
+    "front": "What pulmonary function test result raised suspicion for a second, coexisting lung disease?",
+    "back": "A restrictive pattern with a reduced diffusion capacity out of proportion to what her degree of hilar lymphadenopathy alone would typically produce.",
+    "id": 476
+  },
+  {
+    "chapter": 31,
+    "front": "What was Beatrix's final second diagnosis, coexisting with her sarcoidosis?",
+    "back": "Pneumoconiosis, a distinct, occupationally driven fibrotic lung disease.",
+    "id": 477
+  },
+  {
+    "chapter": 31,
+    "front": "Define Occam's razor as used in this chapter.",
+    "back": "The principle that a single unifying diagnosis should be favored when it adequately explains all of a patient's findings.",
+    "id": 478
+  },
+  {
+    "chapter": 31,
+    "front": "Define Hickam's dictum as used in this chapter.",
+    "back": "The counter-principle that patients, particularly older or more complex ones, can have as many diseases as they please, sometimes requiring more than one diagnosis to explain a combined clinical picture.",
+    "id": 479
+  },
+  {
+    "chapter": 31,
+    "front": "How does this chapter frame the relationship between Occam's razor and Hickam's dictum, rather than as opposing rules?",
+    "back": "As complementary tools: Occam's razor as the appropriate starting assumption when one diagnosis genuinely explains everything, and Hickam's dictum as the necessary check whenever specific findings remain unexplained.",
+    "id": 480
+  },
+  {
+    "chapter": 31,
+    "front": "How were Beatrix's two diagnoses treated differently, and why did that distinction matter?",
+    "back": "Her sarcoidosis was treated with corticosteroids, while her pneumoconiosis had no disease-modifying treatment beyond avoiding exposure and supportive care, meaning one might respond to treatment while the other would not, affecting how future lung decline should be interpreted.",
+    "id": 481
+  },
+  {
+    "chapter": 31,
+    "front": "What question did the attending ask the team on rounds that framed this entire chapter's reasoning skill?",
+    "back": "How many diagnoses does this patient actually have, and how do you know that's the right number, forcing the team to explicitly justify rather than assume the count.",
+    "id": 482
+  },
+  {
+    "chapter": 31,
+    "front": "What was the risk if Beatrix's atypical CT pattern and occupational history had been folded into a single sarcoidosis diagnosis without scrutiny?",
+    "back": "Her coexisting pneumoconiosis would have gone unrecognized, and her future lung decline would likely have been misattributed to inadequately controlled sarcoidosis, potentially leading to unnecessary escalating immunosuppression.",
+    "id": 483
+  },
+  {
+    "chapter": 31,
+    "front": "What discipline does this chapter identify as the capstone application of nearly every reasoning skill in the book?",
+    "back": "Explicitly testing a single-diagnosis explanation against every individual finding before accepting or rejecting it, rather than defaulting to either a single unifying diagnosis or multiple diagnoses reflexively.",
+    "id": 484
+  },
+  {
+    "chapter": 31,
+    "front": "What finding actually resolved the question of one disease versus two in Beatrix's case?",
+    "back": "Not a single test, but the attending's insistence on explicitly testing whether the leading unifying diagnosis, sarcoidosis, actually explained every finding rather than accepting it once it explained most of them.",
+    "id": 485
+  },
+  {
+    "chapter": 32,
+    "front": "How is Chapter 32 structured differently from every other chapter in the book?",
+    "back": "It has no single patient or seven-part case structure; instead it presents eight short vignettes from different domains, each with one board-style question, followed by a final synthesis.",
+    "id": 486
+  },
+  {
+    "chapter": 32,
+    "front": "In Vignette One, what two findings together indicate aortic dissection rather than a more common cardiac cause?",
+    "back": "Tearing chest pain radiating to the back combined with a 40 mmHg blood pressure differential between the two arms.",
+    "id": 487
+  },
+  {
+    "chapter": 32,
+    "front": "What is the appropriate immediate next step for suspected aortic dissection, as illustrated in Vignette One?",
+    "back": "Obtain CT angiography or transesophageal echocardiography promptly, given the high mortality of a missed or delayed diagnosis.",
+    "id": 488
+  },
+  {
+    "chapter": 32,
+    "front": "In Vignette Two, what two new findings should override a woman's established pattern of benign vertigo episodes?",
+    "back": "New double vision and difficulty swallowing, findings absent during her prior two benign episodes.",
+    "id": 489
+  },
+  {
+    "chapter": 32,
+    "front": "What is script drift, as illustrated by Vignette Two?",
+    "back": "Assuming a previously accurate clinical pattern still applies even after new findings outside that pattern appear, rather than re-eliciting the full symptom set at each recurrence.",
+    "id": 490
+  },
+  {
+    "chapter": 32,
+    "front": "In Vignette Three, why should DKA in a previously well-controlled type 1 diabetic prompt an active search for a precipitant?",
+    "back": "Because DKA in a well-controlled patient rarely occurs without one, and the precipitant itself may be a separate, urgent diagnosis such as an evolving myocardial infarction.",
+    "id": 491
+  },
+  {
+    "chapter": 32,
+    "front": "What is diagnosis momentum, as illustrated by Vignette Four?",
+    "back": "A chart diagnosis carried forward across many visits without ever being formally verified, which should instead be treated as an unverified hypothesis warranting independent evaluation.",
+    "id": 492
+  },
+  {
+    "chapter": 32,
+    "front": "In Vignette Four, what evaluation had never actually been performed despite the man's recurrent palpitations?",
+    "back": "Formal cardiac evaluation with ambulatory monitoring, despite his symptoms being attributed to a chart-established anxiety diagnosis.",
+    "id": 493
+  },
+  {
+    "chapter": 32,
+    "front": "In Vignette Five, what bedside finding should redirect a confused cirrhotic patient's evaluation away from a default psychiatric label?",
+    "back": "Asterixis, a finding strongly associated with metabolic encephalopathies including hepatic encephalopathy.",
+    "id": 494
+  },
+  {
+    "chapter": 32,
+    "front": "In Vignette Six, why was the patient's own explanation for his dark stools not accepted at face value?",
+    "back": "His dark stools began several weeks before he started the iron supplement he blamed, so the timeline itself did not support his explanation, warranting a guaiac test and colonoscopy.",
+    "id": 495
+  },
+  {
+    "chapter": 32,
+    "front": "In Vignette Seven, what new exam finding on hospital day two suggested a second, concurrent process beyond heart failure?",
+    "back": "New fever with a focal, asymmetric lung finding, distinct from her prior symmetric pulmonary edema pattern, suggesting a possible pneumonia requiring simultaneous management.",
+    "id": 496
+  },
+  {
+    "chapter": 32,
+    "front": "In Vignette Eight, why does a negative infectious workup not close the evaluation for hepatic encephalopathy's precipitant?",
+    "back": "Because hepatic encephalopathy nearly always has an identifiable precipitant, so a negative workup for one common cause, infection, should prompt continued investigation for others such as constipation or occult gastrointestinal bleeding.",
+    "id": 497
+  },
+  {
+    "chapter": 32,
+    "front": "What shared reasoning habit connects Vignette Three and Vignette Eight despite involving different diseases?",
+    "back": "Both illustrate actively searching for a precipitant rather than accepting a diagnosis as self-explanatory, applied to diabetic ketoacidosis and hepatic encephalopathy respectively.",
+    "id": 498
+  },
+  {
+    "chapter": 32,
+    "front": "According to the chapter's Did You Know section, why do mixed-format case conferences and shelf exams interleave content from different organ systems?",
+    "back": "Learning research shows interleaved practice, switching between topics rather than mastering one before moving on, produces better long-term retention and transfer than blocked practice, even though blocked practice feels more comfortable.",
+    "id": 499
+  },
+  {
+    "chapter": 32,
+    "front": "What is the overall point of presenting eight unrelated vignettes together in this closing chapter, according to the chapter's synthesis?",
+    "back": "To demonstrate that the reasoning habits built throughout the book transfer across unfamiliar presentations, not eight unrelated facts to memorize but one small set of transferable habits applied again and again.",
+    "id": 500
+  }
+]
